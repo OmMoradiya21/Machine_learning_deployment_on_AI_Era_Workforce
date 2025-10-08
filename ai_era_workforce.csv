@@ -1,0 +1,1001 @@
+UserID,Age,Gender,Country,EducationLevel,CurrentJobTitle,YearsOfExperience,Industry,HasAISkills,AISkillsList,WillingnessToUpskill,UpskillingActionsTaken,SkillGapScore,FutureJobRisk,RecommendedLearningPath,LastProfileUpdate
+USR-0001,25,Female,France,Other,Nurse,7,Media,False,,5,4,0.7,High,AI for Business,2024-05-04
+USR-0002,25,Female,Canada,High School,Retail Manager,1,Healthcare,False,,5,4,0.7,High,"Prompt Engineering, NLP",2023-12-19
+USR-0003,35,Female,USA,Bachelor's,Admin Assistant,12,Media,False,,5,5,0.7,High,AI for Business,2024-04-28
+USR-0004,50,Female,UK,Bachelor's,Marketing Coordinator,30,Manufacturing,False,,4,3,0.7,Medium,"Machine Learning, Deep Learning",2023-05-15
+USR-0005,34,Female,UK,High School,Retail Manager,13,Tech,False,,5,2,0.7,High,"Machine Learning, Deep Learning",2024-04-30
+USR-0006,22,Male,USA,Bachelor's,Admin Assistant,0,Finance,False,,5,5,0.7,High,"Machine Learning, Deep Learning",2023-08-10
+USR-0007,22,Male,Canada,Bachelor's,Data Analyst,4,Media,False,,5,5,0.7,Medium,"Machine Learning, Deep Learning",2023-05-31
+USR-0008,49,Female,Canada,PhD,Content Creator,28,Education,False,,2,0,0.7,Low,AI for Business,2023-05-13
+USR-0009,31,Male,Canada,Bachelor's,Retail Manager,11,Healthcare,True,"Computer Vision, Machine Learning, Data Science",4,5,0.3,High,,2024-04-30
+USR-0010,40,Male,Canada,Bachelor's,Admin Assistant,18,Consulting,False,,4,5,0.7,High,"Data Visualization, Python",2023-11-06
+USR-0011,57,Female,USA,Master's,Teacher,35,Media,False,,3,2,0.7,High,"Prompt Engineering, NLP",2023-08-07
+USR-0012,25,Female,Brazil,High School,Nurse,3,Tech,False,,5,5,0.7,Medium,"Machine Learning, Deep Learning",2023-02-10
+USR-0013,31,Male,Australia,Bachelor's,Retail Manager,11,Education,False,,4,4,0.7,High,"Data Visualization, Python",2024-06-04
+USR-0014,23,Female,France,Bachelor's,Teacher,4,Consulting,False,,4,5,0.7,Medium,"Python, Data Analysis, AI Ethics",2023-03-30
+USR-0015,55,Prefer Not to Say,UK,Bachelor's,Content Creator,34,Tech,True,"AI Ethics, Prompt Engineering",2,0,0.34,Low,,2024-01-15
+USR-0016,51,Male,USA,PhD,Admin Assistant,32,Media,False,,3,2,0.7,High,"Data Visualization, Python",2023-07-26
+USR-0017,25,Male,France,High School,Retail Manager,2,Manufacturing,False,,4,0,0.7,High,"Python, Data Analysis, AI Ethics",2023-12-03
+USR-0018,46,Female,France,High School,Financial Advisor,24,Retail,False,,3,2,0.7,Medium,AI for Business,2024-07-10
+USR-0019,30,Female,USA,Bachelor's,Software Engineer,9,Consulting,False,,4,2,0.7,Low,"Prompt Engineering, NLP",2024-02-26
+USR-0020,27,Male,Canada,High School,Content Creator,9,Finance,False,,5,0,0.7,Low,"Machine Learning, Deep Learning",2024-05-12
+USR-0021,29,Female,USA,Other,AI Specialist,8,Manufacturing,False,,4,1,0.7,Low,"Prompt Engineering, NLP",2023-01-18
+USR-0022,22,Male,France,Bachelor's,Financial Advisor,4,Retail,False,,4,0,0.7,Medium,"Data Visualization, Python",2024-04-21
+USR-0023,38,Male,France,Bachelor's,Admin Assistant,17,Manufacturing,False,,5,2,0.7,High,"Machine Learning, Deep Learning",2023-07-26
+USR-0024,59,Male,Australia,High School,Financial Advisor,36,Retail,False,,2,0,0.7,High,"Prompt Engineering, NLP",2023-04-22
+USR-0025,23,Female,Australia,PhD,Nurse,4,Manufacturing,True,"Deep Learning, Computer Vision",5,1,0.3,Medium,,2023-07-21
+USR-0026,40,Male,Brazil,Master's,AI Specialist,16,Education,True,"Deep Learning, Machine Learning",3,1,0.29,Low,,2023-05-07
+USR-0027,44,Female,Australia,Master's,Retail Manager,25,Tech,True,"Machine Learning, Computer Vision, AI Ethics",2,1,0.23,High,,2024-01-29
+USR-0028,29,Female,Canada,Bachelor's,Content Creator,6,Retail,False,,5,4,0.7,Low,"Python, Data Analysis, AI Ethics",2024-05-14
+USR-0029,45,Female,USA,High School,Operations Manager,21,Consulting,False,,3,2,0.7,Low,"Data Visualization, Python",2023-03-18
+USR-0030,43,Female,Canada,Bachelor's,Operations Manager,23,Tech,False,,3,1,0.7,Medium,"Machine Learning, Deep Learning",2024-07-13
+USR-0031,29,Female,USA,Master's,Content Creator,10,Consulting,False,,5,5,0.7,Low,"Data Visualization, Python",2023-12-24
+USR-0032,49,Female,India,Bachelor's,AI Specialist,26,Healthcare,False,,2,1,0.7,Low,"Prompt Engineering, NLP",2024-02-27
+USR-0033,53,Male,France,PhD,Nurse,33,Media,False,,3,2,0.7,Low,"Python, Data Analysis, AI Ethics",2023-07-25
+USR-0034,59,Female,USA,Bachelor's,Admin Assistant,35,Consulting,False,,2,0,0.7,High,"Prompt Engineering, NLP",2024-03-23
+USR-0035,46,Female,USA,Bachelor's,Operations Manager,24,Retail,False,,3,2,0.7,Medium,"Python, Data Analysis, AI Ethics",2024-01-24
+USR-0036,43,Female,Brazil,Bachelor's,Admin Assistant,23,Retail,False,,3,0,0.7,High,"Prompt Engineering, NLP",2023-07-31
+USR-0037,41,Female,France,Bachelor's,Content Creator,17,Education,False,,4,5,0.7,Low,"Machine Learning, Deep Learning",2024-07-07
+USR-0038,44,Female,France,Master's,Teacher,20,Consulting,True,"Computer Vision, Prompt Engineering",2,2,0.28,Medium,,2023-10-26
+USR-0039,33,Female,India,Master's,AI Specialist,11,Consulting,True,"Data Science, Natural Language Processing",5,1,0.26,Low,,2023-10-18
+USR-0040,43,Female,India,Master's,Nurse,23,Finance,False,,3,0,0.7,High,"Machine Learning, Deep Learning",2023-12-22
+USR-0041,33,Female,Canada,Master's,Nurse,10,Education,True,Prompt Engineering,4,0,0.33,High,,2023-01-03
+USR-0042,34,Female,UK,High School,Admin Assistant,10,Consulting,True,"Natural Language Processing, Machine Learning, Computer Vision",4,2,0.42,High,,2023-01-08
+USR-0043,42,Female,UK,Bachelor's,Retail Manager,23,Retail,False,,4,4,0.7,High,"Python, Data Analysis, AI Ethics",2023-04-13
+USR-0044,51,Female,Germany,Bachelor's,Operations Manager,27,Healthcare,False,,4,2,0.7,Medium,"Prompt Engineering, NLP",2024-04-27
+USR-0045,56,Male,India,Bachelor's,Admin Assistant,32,Manufacturing,False,,2,0,0.7,High,AI for Business,2023-06-25
+USR-0046,52,Male,Canada,Bachelor's,Software Engineer,30,Retail,False,,4,4,0.7,Low,"Prompt Engineering, NLP",2024-07-19
+USR-0047,57,Female,USA,Bachelor's,Retail Manager,35,Healthcare,True,Data Science,4,5,0.4,High,,2024-05-20
+USR-0048,38,Male,India,Other,Retail Manager,20,Retail,True,"AI Ethics, Data Science",5,4,0.44,High,,2024-02-18
+USR-0049,46,Female,India,Master's,Marketing Coordinator,25,Healthcare,True,"Data Science, Prompt Engineering, Computer Vision",4,0,0.38,High,,2024-03-27
+USR-0050,44,Male,USA,PhD,Content Creator,22,Healthcare,False,,2,0,0.7,Low,"Python, Data Analysis, AI Ethics",2023-08-22
+USR-0051,40,Male,USA,Bachelor's,Content Creator,16,Media,False,,4,4,0.7,Low,"Machine Learning, Deep Learning",2023-08-16
+USR-0052,52,Female,USA,Master's,Financial Advisor,29,Finance,False,,4,5,0.7,Low,"Python, Data Analysis, AI Ethics",2023-05-31
+USR-0053,45,Female,Canada,Bachelor's,Admin Assistant,21,Education,False,,3,1,0.7,High,"Data Visualization, Python",2023-02-20
+USR-0054,60,Female,USA,Master's,Admin Assistant,39,Education,False,,2,1,0.7,High,"Python, Data Analysis, AI Ethics",2024-02-15
+USR-0055,25,Female,France,Bachelor's,Teacher,2,Tech,True,"Deep Learning, Prompt Engineering, Natural Language Processing",4,1,0.19,Low,,2023-05-02
+USR-0056,31,Male,France,Master's,Data Analyst,8,Manufacturing,True,Machine Learning,4,1,0.35,Low,,2023-08-01
+USR-0057,48,Female,Canada,Master's,Data Analyst,30,Tech,True,"Natural Language Processing, AI Ethics",4,5,0.26,Medium,,2023-09-16
+USR-0058,32,Male,India,Bachelor's,Operations Manager,9,Manufacturing,False,,3,2,0.7,Medium,"Machine Learning, Deep Learning",2023-05-23
+USR-0059,38,Male,UK,High School,Admin Assistant,15,Education,True,"Prompt Engineering, Machine Learning",4,5,0.36,High,,2023-09-07
+USR-0060,29,Non-Binary,UK,Bachelor's,Financial Advisor,5,Media,True,Prompt Engineering,5,2,0.33,Medium,,2024-03-07
+USR-0061,51,Female,Australia,Bachelor's,Content Creator,29,Retail,False,,2,1,0.7,Low,AI for Business,2024-04-09
+USR-0062,48,Male,UK,Bachelor's,Marketing Coordinator,25,Retail,False,,4,3,0.7,Medium,"Machine Learning, Deep Learning",2024-05-22
+USR-0063,27,Male,India,High School,AI Specialist,3,Tech,False,,5,0,0.7,Low,"Machine Learning, Deep Learning",2023-05-18
+USR-0064,49,Male,France,Master's,Retail Manager,31,Media,False,,2,1,0.7,High,AI for Business,2024-06-12
+USR-0065,27,Female,USA,Bachelor's,Financial Advisor,6,Media,False,,4,3,0.7,Medium,"Machine Learning, Deep Learning",2023-03-27
+USR-0066,23,Male,Australia,Master's,Nurse,0,Tech,False,,4,3,0.7,Medium,"Machine Learning, Deep Learning",2023-06-01
+USR-0067,59,Female,India,High School,AI Specialist,38,Healthcare,False,,4,3,0.7,Low,AI for Business,2024-01-02
+USR-0068,29,Female,UK,Bachelor's,Operations Manager,11,Healthcare,False,,4,5,0.7,Low,"Machine Learning, Deep Learning",2023-11-13
+USR-0069,28,Male,Germany,High School,Financial Advisor,10,Media,False,,5,3,0.7,Medium,AI for Business,2023-02-14
+USR-0070,28,Female,India,Bachelor's,Admin Assistant,6,Retail,False,,4,3,0.7,High,"Prompt Engineering, NLP",2024-04-07
+USR-0071,51,Male,India,Bachelor's,Financial Advisor,30,Manufacturing,True,"Computer Vision, Natural Language Processing, Deep Learning",4,0,0.35,High,,2023-04-03
+USR-0072,45,Male,Canada,Bachelor's,Data Analyst,24,Healthcare,False,,4,5,0.7,Medium,"Prompt Engineering, NLP",2024-07-07
+USR-0073,29,Male,France,High School,Software Engineer,5,Manufacturing,False,,4,0,0.7,Low,AI for Business,2024-02-22
+USR-0074,43,Male,France,Master's,Content Creator,25,Finance,False,,2,1,0.7,Low,"Machine Learning, Deep Learning",2024-02-26
+USR-0075,48,Male,Canada,Bachelor's,Financial Advisor,30,Tech,False,,3,2,0.7,Medium,"Python, Data Analysis, AI Ethics",2024-03-28
+USR-0076,44,Female,UK,Master's,Admin Assistant,23,Manufacturing,False,,4,5,0.7,High,"Data Visualization, Python",2023-07-05
+USR-0077,50,Female,Germany,Master's,Data Analyst,29,Education,False,,3,0,0.7,High,"Python, Data Analysis, AI Ethics",2023-12-10
+USR-0078,36,Male,India,High School,AI Specialist,12,Retail,False,,5,0,0.7,Low,"Python, Data Analysis, AI Ethics",2023-08-02
+USR-0079,33,Female,Germany,High School,Marketing Coordinator,11,Tech,True,"Prompt Engineering, Machine Learning",4,4,0.25,Low,,2023-07-09
+USR-0080,51,Female,USA,Master's,Nurse,29,Consulting,False,,2,0,0.7,Medium,"Prompt Engineering, NLP",2023-07-14
+USR-0081,31,Female,India,Bachelor's,AI Specialist,9,Tech,True,"Computer Vision, Deep Learning, AI Ethics",3,1,0.18,Low,,2023-06-20
+USR-0082,33,Male,Brazil,Bachelor's,Software Engineer,10,Manufacturing,False,,5,3,0.7,Low,"Python, Data Analysis, AI Ethics",2024-06-25
+USR-0083,32,Female,UK,Other,Software Engineer,12,Tech,True,"Machine Learning, Prompt Engineering, Computer Vision",5,3,0.35,Low,,2023-07-20
+USR-0084,27,Female,France,Bachelor's,Operations Manager,3,Media,False,,5,1,0.7,Medium,"Machine Learning, Deep Learning",2023-07-17
+USR-0085,41,Male,UK,High School,Nurse,23,Manufacturing,False,,4,3,0.7,High,"Python, Data Analysis, AI Ethics",2023-09-16
+USR-0086,23,Female,France,PhD,Operations Manager,0,Tech,True,"AI Ethics, Prompt Engineering",5,0,0.23,Low,,2024-01-23
+USR-0087,46,Male,UK,Bachelor's,Teacher,26,Finance,False,,4,3,0.7,Medium,"Prompt Engineering, NLP",2023-06-08
+USR-0088,41,Female,Germany,High School,Operations Manager,19,Finance,False,,3,1,0.7,Medium,"Data Visualization, Python",2023-03-23
+USR-0089,54,Female,Canada,Bachelor's,Data Analyst,32,Healthcare,False,,3,1,0.7,Medium,"Machine Learning, Deep Learning",2024-01-03
+USR-0090,40,Male,Germany,Master's,Marketing Coordinator,19,Consulting,False,,2,1,0.7,High,"Machine Learning, Deep Learning",2023-05-04
+USR-0091,60,Male,Brazil,Bachelor's,Financial Advisor,38,Media,False,,4,3,0.7,Medium,"Data Visualization, Python",2024-02-07
+USR-0092,58,Female,UK,Other,Data Analyst,36,Consulting,False,,4,5,0.7,Low,"Machine Learning, Deep Learning",2023-02-01
+USR-0093,29,Female,India,Bachelor's,Software Engineer,7,Consulting,False,,4,3,0.7,Low,"Data Visualization, Python",2024-05-22
+USR-0094,40,Male,UK,High School,Software Engineer,17,Media,True,"Computer Vision, Natural Language Processing, AI Ethics",3,0,0.45,Low,,2023-07-11
+USR-0095,28,Female,India,Bachelor's,Data Analyst,9,Consulting,True,Computer Vision,4,0,0.25,Low,,2023-05-20
+USR-0096,42,Male,India,Master's,Teacher,18,Finance,False,,3,2,0.7,Low,"Prompt Engineering, NLP",2024-07-27
+USR-0097,23,Male,India,Bachelor's,Retail Manager,0,Manufacturing,False,,4,3,0.7,High,"Machine Learning, Deep Learning",2023-11-26
+USR-0098,40,Male,France,Master's,Data Analyst,22,Consulting,False,,3,0,0.7,Medium,AI for Business,2024-04-24
+USR-0099,41,Male,Australia,PhD,Operations Manager,18,Manufacturing,False,,2,2,0.7,Medium,"Machine Learning, Deep Learning",2023-12-31
+USR-0100,60,Male,USA,Bachelor's,Software Engineer,40,Retail,False,,3,0,0.7,Low,"Prompt Engineering, NLP",2023-06-25
+USR-0101,22,Female,USA,Master's,Data Analyst,1,Healthcare,False,,5,4,0.7,Low,"Machine Learning, Deep Learning",2024-07-10
+USR-0102,50,Female,France,Bachelor's,Software Engineer,26,Tech,False,,4,1,0.7,Low,"Data Visualization, Python",2023-09-25
+USR-0103,27,Female,USA,PhD,Operations Manager,8,Media,False,,5,0,0.7,Medium,"Prompt Engineering, NLP",2023-11-28
+USR-0104,58,Female,Germany,High School,Admin Assistant,36,Manufacturing,False,,3,1,0.7,High,"Data Visualization, Python",2024-06-09
+USR-0105,57,Male,Germany,Master's,Data Analyst,39,Healthcare,False,,2,0,0.7,Medium,"Prompt Engineering, NLP",2024-01-09
+USR-0106,57,Female,USA,Bachelor's,Data Analyst,39,Consulting,False,,3,2,0.7,Medium,"Python, Data Analysis, AI Ethics",2023-06-09
+USR-0107,52,Female,France,Bachelor's,Retail Manager,32,Education,False,,3,2,0.7,High,"Machine Learning, Deep Learning",2023-10-02
+USR-0108,55,Female,USA,Bachelor's,AI Specialist,35,Consulting,False,,4,3,0.7,Low,"Python, Data Analysis, AI Ethics",2024-03-19
+USR-0109,39,Male,Canada,Bachelor's,Data Analyst,18,Finance,False,,5,2,0.7,Medium,"Python, Data Analysis, AI Ethics",2023-10-29
+USR-0110,52,Female,USA,Bachelor's,Teacher,29,Finance,False,,4,0,0.7,High,"Python, Data Analysis, AI Ethics",2024-07-27
+USR-0111,31,Male,Brazil,Bachelor's,Financial Advisor,9,Tech,False,,5,5,0.7,Medium,"Data Visualization, Python",2023-02-12
+USR-0112,49,Female,Germany,Bachelor's,Operations Manager,25,Finance,False,,2,0,0.7,High,AI for Business,2023-06-11
+USR-0113,37,Female,Australia,Bachelor's,Financial Advisor,17,Manufacturing,False,,4,0,0.7,Medium,"Prompt Engineering, NLP",2023-02-26
+USR-0114,24,Male,Germany,Bachelor's,Retail Manager,4,Tech,True,Prompt Engineering,5,4,0.19,High,,2023-12-29
+USR-0115,44,Female,France,Master's,Retail Manager,21,Manufacturing,True,"Computer Vision, Prompt Engineering, AI Ethics",2,0,0.27,High,,2024-06-26
+USR-0116,60,Male,France,Bachelor's,Admin Assistant,37,Manufacturing,False,,4,5,0.7,High,"Data Visualization, Python",2023-05-29
+USR-0117,51,Female,UK,Master's,Financial Advisor,27,Finance,True,Machine Learning,2,0,0.35,Medium,,2024-05-04
+USR-0118,51,Male,USA,Master's,Admin Assistant,29,Tech,False,,4,5,0.7,High,"Data Visualization, Python",2023-02-13
+USR-0119,26,Female,UK,Bachelor's,Admin Assistant,8,Media,True,Deep Learning,5,4,0.32,High,,2024-07-18
+USR-0120,23,Male,Canada,Bachelor's,Retail Manager,1,Education,False,,5,2,0.7,High,"Machine Learning, Deep Learning",2024-03-08
+USR-0121,30,Male,Australia,High School,Retail Manager,8,Manufacturing,False,,3,1,0.7,High,"Prompt Engineering, NLP",2023-07-15
+USR-0122,34,Male,Canada,Bachelor's,Nurse,10,Retail,False,,3,0,0.7,Medium,"Data Visualization, Python",2024-02-12
+USR-0123,37,Female,USA,Master's,Content Creator,15,Media,False,,4,1,0.7,Low,AI for Business,2024-05-24
+USR-0124,54,Male,India,Bachelor's,Operations Manager,32,Manufacturing,False,,3,2,0.7,High,"Python, Data Analysis, AI Ethics",2023-11-30
+USR-0125,58,Female,India,Master's,Data Analyst,40,Tech,False,,4,5,0.7,Medium,"Machine Learning, Deep Learning",2023-04-30
+USR-0126,34,Male,Brazil,Bachelor's,Nurse,12,Media,False,,5,0,0.7,Medium,AI for Business,2023-07-21
+USR-0127,48,Female,USA,High School,Admin Assistant,27,Education,False,,4,5,0.7,High,AI for Business,2024-05-09
+USR-0128,43,Female,USA,PhD,Data Analyst,22,Education,True,Data Science,3,1,0.33,Medium,,2023-02-23
+USR-0129,22,Male,Australia,Other,AI Specialist,1,Tech,False,,5,1,0.7,Low,"Data Visualization, Python",2023-07-12
+USR-0130,52,Male,USA,Bachelor's,Financial Advisor,33,Media,False,,3,1,0.7,Medium,"Machine Learning, Deep Learning",2023-12-01
+USR-0131,34,Female,India,Bachelor's,Content Creator,14,Manufacturing,False,,4,3,0.7,Low,"Python, Data Analysis, AI Ethics",2024-04-16
+USR-0132,45,Female,Australia,Bachelor's,Content Creator,21,Media,False,,2,2,0.7,Low,"Prompt Engineering, NLP",2023-10-15
+USR-0133,39,Male,India,Bachelor's,Content Creator,18,Retail,False,,4,4,0.7,Low,"Prompt Engineering, NLP",2024-06-29
+USR-0134,50,Female,France,Bachelor's,Admin Assistant,28,Media,False,,4,1,0.7,High,"Python, Data Analysis, AI Ethics",2023-10-12
+USR-0135,32,Female,Australia,PhD,Operations Manager,12,Tech,True,Natural Language Processing,4,5,0.19,Medium,,2023-07-20
+USR-0136,42,Male,UK,Master's,Teacher,23,Education,False,,4,1,0.7,Medium,"Prompt Engineering, NLP",2024-04-30
+USR-0137,30,Female,Canada,Bachelor's,AI Specialist,8,Tech,True,"Deep Learning, Natural Language Processing",4,0,0.21,Low,,2023-04-19
+USR-0138,47,Male,USA,PhD,Marketing Coordinator,23,Education,True,"Data Science, Machine Learning",2,2,0.43,Medium,,2024-04-11
+USR-0139,58,Female,Brazil,Master's,Retail Manager,35,Media,False,,2,2,0.7,High,"Prompt Engineering, NLP",2023-04-09
+USR-0140,32,Male,Germany,Bachelor's,Retail Manager,12,Healthcare,True,"AI Ethics, Machine Learning",4,1,0.34,High,,2024-05-02
+USR-0141,38,Female,India,PhD,Retail Manager,19,Retail,True,"AI Ethics, Natural Language Processing, Machine Learning",4,5,0.3,High,,2023-06-16
+USR-0142,40,Male,Canada,High School,Nurse,16,Retail,False,,4,4,0.7,Medium,"Prompt Engineering, NLP",2023-03-16
+USR-0143,56,Female,India,Bachelor's,Operations Manager,37,Retail,True,"Data Science, AI Ethics, Machine Learning",4,2,0.41,High,,2023-09-20
+USR-0144,41,Female,France,Bachelor's,Retail Manager,19,Healthcare,False,,2,0,0.7,High,"Python, Data Analysis, AI Ethics",2023-07-11
+USR-0145,40,Female,Australia,Bachelor's,Retail Manager,18,Finance,False,,4,1,0.7,High,"Machine Learning, Deep Learning",2024-05-25
+USR-0146,45,Female,Germany,Bachelor's,Financial Advisor,25,Healthcare,False,,2,2,0.7,Low,"Data Visualization, Python",2023-02-24
+USR-0147,42,Prefer Not to Say,Brazil,High School,Nurse,18,Education,False,,2,0,0.7,Medium,"Machine Learning, Deep Learning",2023-12-24
+USR-0148,40,Male,UK,Bachelor's,Retail Manager,22,Finance,False,,4,0,0.7,High,"Prompt Engineering, NLP",2023-03-18
+USR-0149,54,Male,Germany,Other,Teacher,34,Education,False,,4,3,0.7,Medium,"Data Visualization, Python",2024-05-22
+USR-0150,22,Male,Brazil,Bachelor's,Content Creator,0,Manufacturing,False,,5,1,0.7,Low,"Data Visualization, Python",2024-04-21
+USR-0151,37,Female,USA,Master's,Content Creator,15,Manufacturing,False,,5,4,0.7,Low,AI for Business,2024-02-17
+USR-0152,57,Prefer Not to Say,USA,Bachelor's,Financial Advisor,38,Education,False,,3,2,0.7,Low,AI for Business,2023-09-21
+USR-0153,35,Male,USA,Bachelor's,AI Specialist,13,Healthcare,False,,5,4,0.7,Low,"Data Visualization, Python",2024-01-20
+USR-0154,54,Male,Australia,Bachelor's,Content Creator,35,Tech,True,"Deep Learning, AI Ethics, Natural Language Processing",3,0,0.29,Low,,2024-05-23
+USR-0155,55,Male,Germany,Bachelor's,Operations Manager,33,Tech,True,"AI Ethics, Natural Language Processing",4,2,0.29,Medium,,2023-01-22
+USR-0156,45,Female,UK,Master's,Data Analyst,25,Media,False,,4,5,0.7,Low,"Data Visualization, Python",2023-01-05
+USR-0157,58,Male,India,Bachelor's,Retail Manager,37,Healthcare,False,,4,4,0.7,High,"Data Visualization, Python",2023-12-17
+USR-0158,27,Male,France,High School,Admin Assistant,7,Tech,False,,3,2,0.7,High,"Prompt Engineering, NLP",2023-07-27
+USR-0159,53,Male,UK,Other,Content Creator,33,Manufacturing,False,,3,0,0.7,Low,AI for Business,2023-03-05
+USR-0160,54,Male,India,Bachelor's,Software Engineer,33,Education,False,,4,1,0.7,Low,"Python, Data Analysis, AI Ethics",2023-07-01
+USR-0161,59,Male,USA,Bachelor's,Admin Assistant,41,Education,False,,4,4,0.7,High,AI for Business,2023-06-12
+USR-0162,22,Female,Australia,High School,Financial Advisor,0,Tech,True,"Deep Learning, AI Ethics, Data Science",5,2,0.34,Medium,,2023-02-15
+USR-0163,34,Female,India,Master's,Admin Assistant,12,Tech,False,,3,2,0.7,High,"Python, Data Analysis, AI Ethics",2024-02-03
+USR-0164,47,Female,India,Bachelor's,Operations Manager,29,Manufacturing,False,,3,1,0.7,Medium,"Python, Data Analysis, AI Ethics",2023-05-10
+USR-0165,37,Female,Canada,Bachelor's,Nurse,18,Tech,True,"AI Ethics, Computer Vision",5,0,0.18,Medium,,2023-08-04
+USR-0166,39,Male,France,Bachelor's,Nurse,16,Education,False,,5,4,0.7,Medium,"Machine Learning, Deep Learning",2023-06-09
+USR-0167,36,Female,Germany,Master's,Financial Advisor,18,Finance,True,Deep Learning,5,2,0.18,High,,2023-10-11
+USR-0168,50,Female,Australia,Bachelor's,Data Analyst,27,Media,False,,3,0,0.7,Low,AI for Business,2024-06-08
+USR-0169,36,Male,Germany,Bachelor's,Content Creator,12,Media,True,"Computer Vision, Deep Learning, Prompt Engineering",3,1,0.3,Low,,2024-06-21
+USR-0170,51,Female,India,Bachelor's,Data Analyst,27,Manufacturing,True,"Data Science, Deep Learning",4,2,0.42,Medium,,2023-03-17
+USR-0171,36,Male,USA,High School,Software Engineer,14,Education,False,,3,2,0.7,Low,"Python, Data Analysis, AI Ethics",2023-02-16
+USR-0172,42,Female,Canada,Bachelor's,Content Creator,23,Media,True,"Deep Learning, Machine Learning",3,1,0.31,Low,,2024-05-13
+USR-0173,29,Female,Canada,High School,Software Engineer,5,Tech,True,AI Ethics,5,4,0.29,Low,,2024-04-24
+USR-0174,45,Male,Canada,Bachelor's,Retail Manager,27,Healthcare,False,,3,1,0.7,High,"Data Visualization, Python",2023-11-04
+USR-0175,35,Male,India,Bachelor's,Admin Assistant,16,Manufacturing,False,,4,2,0.7,High,"Python, Data Analysis, AI Ethics",2024-02-02
+USR-0176,50,Male,USA,Bachelor's,AI Specialist,28,Finance,False,,4,0,0.7,Low,AI for Business,2023-09-02
+USR-0177,37,Male,India,Bachelor's,Data Analyst,16,Retail,False,,5,4,0.7,High,AI for Business,2023-11-19
+USR-0178,22,Male,USA,Bachelor's,Content Creator,0,Tech,True,"Data Science, Machine Learning",5,2,0.2,Low,,2023-02-06
+USR-0179,31,Male,Brazil,Master's,Software Engineer,10,Media,False,,4,1,0.7,Low,AI for Business,2024-02-27
+USR-0180,46,Male,Canada,Bachelor's,Retail Manager,27,Manufacturing,False,,4,4,0.7,High,"Prompt Engineering, NLP",2023-04-18
+USR-0181,24,Female,France,High School,Software Engineer,3,Retail,False,,5,5,0.7,Low,AI for Business,2023-01-21
+USR-0182,41,Male,India,High School,Software Engineer,23,Healthcare,False,,3,0,0.7,Low,"Machine Learning, Deep Learning",2023-03-17
+USR-0183,50,Male,UK,Bachelor's,Marketing Coordinator,30,Manufacturing,False,,2,1,0.7,High,AI for Business,2023-07-20
+USR-0184,31,Male,Germany,Bachelor's,Data Analyst,13,Media,False,,5,2,0.7,High,"Prompt Engineering, NLP",2024-04-04
+USR-0185,38,Female,France,Bachelor's,Teacher,17,Tech,True,"Data Science, Deep Learning, Natural Language Processing",4,3,0.23,Low,,2023-06-15
+USR-0186,30,Female,France,Bachelor's,Content Creator,7,Consulting,False,,5,4,0.7,Low,"Python, Data Analysis, AI Ethics",2023-09-26
+USR-0187,28,Female,USA,Bachelor's,Content Creator,5,Tech,False,,4,3,0.7,Low,AI for Business,2024-03-03
+USR-0188,25,Male,Brazil,Master's,Financial Advisor,6,Finance,False,,5,4,0.7,High,"Data Visualization, Python",2023-04-05
+USR-0189,34,Male,India,Bachelor's,AI Specialist,13,Retail,False,,5,3,0.7,Low,"Machine Learning, Deep Learning",2024-03-27
+USR-0190,27,Male,India,Other,Software Engineer,7,Consulting,False,,4,2,0.7,Low,"Machine Learning, Deep Learning",2024-03-26
+USR-0191,35,Female,India,PhD,Retail Manager,13,Tech,False,,5,4,0.7,High,"Prompt Engineering, NLP",2023-11-20
+USR-0192,35,Male,Germany,Bachelor's,Marketing Coordinator,11,Education,True,Natural Language Processing,4,4,0.27,Medium,,2023-09-02
+USR-0193,58,Male,Australia,PhD,Marketing Coordinator,38,Finance,False,,3,1,0.7,Low,"Data Visualization, Python",2024-06-10
+USR-0194,54,Female,Brazil,Bachelor's,AI Specialist,36,Tech,True,Prompt Engineering,2,1,0.28,Low,,2024-03-01
+USR-0195,22,Male,UK,Bachelor's,Teacher,1,Healthcare,False,,5,1,0.7,Medium,AI for Business,2023-11-07
+USR-0196,48,Male,USA,Bachelor's,Financial Advisor,25,Manufacturing,False,,4,2,0.7,Medium,"Data Visualization, Python",2023-04-06
+USR-0197,41,Male,UK,Bachelor's,Content Creator,18,Finance,False,,3,0,0.7,Low,"Prompt Engineering, NLP",2023-04-19
+USR-0198,58,Male,Australia,Master's,AI Specialist,35,Media,False,,4,4,0.7,Low,"Machine Learning, Deep Learning",2023-11-01
+USR-0199,60,Male,USA,Bachelor's,Content Creator,41,Media,False,,3,0,0.7,Low,"Machine Learning, Deep Learning",2023-06-13
+USR-0200,46,Prefer Not to Say,India,Master's,Teacher,26,Consulting,False,,4,0,0.7,Medium,"Prompt Engineering, NLP",2023-10-15
+USR-0201,43,Male,India,Master's,Data Analyst,19,Education,True,"Data Science, Natural Language Processing",4,5,0.28,Low,,2024-05-19
+USR-0202,28,Female,Australia,Bachelor's,Retail Manager,9,Education,False,,5,1,0.7,High,"Prompt Engineering, NLP",2024-07-16
+USR-0203,59,Female,USA,High School,Content Creator,35,Media,False,,3,0,0.7,Low,AI for Business,2023-12-21
+USR-0204,33,Male,India,Bachelor's,Admin Assistant,13,Tech,True,AI Ethics,3,2,0.21,High,,2023-03-20
+USR-0205,53,Male,Brazil,Bachelor's,Nurse,31,Tech,True,"Machine Learning, AI Ethics",2,2,0.33,Medium,,2023-12-21
+USR-0206,36,Female,USA,High School,Financial Advisor,15,Retail,True,"Prompt Engineering, AI Ethics, Machine Learning",5,2,0.39,Low,,2024-05-15
+USR-0207,36,Male,India,Master's,Admin Assistant,15,Manufacturing,False,,5,5,0.7,High,"Machine Learning, Deep Learning",2023-03-03
+USR-0208,57,Female,Germany,Bachelor's,Operations Manager,34,Media,False,,4,4,0.7,Low,"Machine Learning, Deep Learning",2023-03-06
+USR-0209,48,Female,Australia,Bachelor's,Retail Manager,25,Education,False,,4,1,0.7,High,AI for Business,2024-07-01
+USR-0210,27,Male,Brazil,Other,Marketing Coordinator,7,Tech,True,"AI Ethics, Prompt Engineering, Machine Learning",4,4,0.28,High,,2023-01-21
+USR-0211,32,Male,USA,Bachelor's,Content Creator,14,Tech,True,"AI Ethics, Deep Learning, Data Science",5,2,0.21,Low,,2024-06-13
+USR-0212,23,Male,USA,Master's,Admin Assistant,2,Retail,False,,4,0,0.7,High,"Machine Learning, Deep Learning",2023-11-23
+USR-0213,36,Male,USA,Master's,Software Engineer,13,Healthcare,True,"Data Science, Prompt Engineering, Deep Learning",4,2,0.27,Low,,2023-11-04
+USR-0214,59,Male,USA,Bachelor's,Software Engineer,40,Manufacturing,False,,4,5,0.7,Low,AI for Business,2024-05-01
+USR-0215,45,Female,Brazil,Bachelor's,Admin Assistant,26,Manufacturing,False,,2,2,0.7,High,"Prompt Engineering, NLP",2024-03-04
+USR-0216,50,Female,France,Bachelor's,Content Creator,29,Tech,True,"Data Science, AI Ethics, Computer Vision",3,2,0.32,Low,,2024-01-28
+USR-0217,24,Male,Australia,Bachelor's,Software Engineer,0,Retail,False,,5,5,0.7,Low,AI for Business,2024-05-21
+USR-0218,30,Female,Brazil,Bachelor's,Operations Manager,12,Consulting,True,Natural Language Processing,5,3,0.27,Medium,,2023-03-06
+USR-0219,37,Female,India,Bachelor's,Marketing Coordinator,19,Finance,False,,5,1,0.7,Low,AI for Business,2024-03-19
+USR-0220,24,Female,Australia,High School,Admin Assistant,3,Consulting,False,,5,2,0.7,High,"Prompt Engineering, NLP",2023-02-09
+USR-0221,60,Non-Binary,India,Master's,Marketing Coordinator,41,Tech,True,"AI Ethics, Computer Vision",4,2,0.29,Medium,,2024-01-30
+USR-0222,57,Male,India,Bachelor's,AI Specialist,36,Consulting,False,,3,0,0.7,Low,"Data Visualization, Python",2023-02-24
+USR-0223,50,Male,France,Master's,AI Specialist,28,Finance,False,,2,1,0.7,Low,"Prompt Engineering, NLP",2023-10-03
+USR-0224,55,Male,France,Bachelor's,Operations Manager,37,Healthcare,False,,4,3,0.7,Medium,AI for Business,2023-11-08
+USR-0225,48,Male,USA,PhD,Admin Assistant,28,Manufacturing,True,"AI Ethics, Data Science",4,1,0.44,High,,2023-11-18
+USR-0226,48,Female,India,Master's,Teacher,26,Media,False,,3,0,0.7,Medium,"Machine Learning, Deep Learning",2023-07-11
+USR-0227,22,Male,France,Master's,Retail Manager,1,Retail,True,"Machine Learning, Computer Vision, AI Ethics",5,5,0.31,High,,2023-08-09
+USR-0228,40,Female,India,Master's,Retail Manager,21,Finance,False,,2,2,0.7,High,"Machine Learning, Deep Learning",2023-03-02
+USR-0229,57,Female,Canada,Master's,Teacher,35,Tech,True,"Prompt Engineering, Natural Language Processing",4,0,0.29,Low,,2023-11-17
+USR-0230,41,Female,France,Bachelor's,Teacher,19,Media,True,"Natural Language Processing, AI Ethics, Data Science",2,1,0.28,High,,2023-08-04
+USR-0231,59,Male,India,Master's,Teacher,41,Manufacturing,True,"Machine Learning, Deep Learning, Data Science",4,3,0.44,Medium,,2024-07-31
+USR-0232,45,Male,India,Master's,Marketing Coordinator,24,Manufacturing,False,,4,0,0.7,Medium,"Prompt Engineering, NLP",2023-10-12
+USR-0233,25,Female,Brazil,Master's,Admin Assistant,2,Finance,False,,4,1,0.7,High,"Prompt Engineering, NLP",2023-11-01
+USR-0234,30,Female,Germany,Master's,Admin Assistant,11,Retail,True,"AI Ethics, Data Science, Natural Language Processing",4,1,0.3,High,,2023-02-10
+USR-0235,37,Male,France,Bachelor's,Teacher,19,Healthcare,False,,4,3,0.7,Low,"Machine Learning, Deep Learning",2024-07-19
+USR-0236,31,Female,USA,Bachelor's,AI Specialist,13,Consulting,False,,4,0,0.7,Low,"Prompt Engineering, NLP",2023-06-09
+USR-0237,35,Female,France,Bachelor's,Operations Manager,15,Healthcare,False,,5,4,0.7,Low,"Data Visualization, Python",2024-05-05
+USR-0238,46,Female,India,Master's,Data Analyst,24,Consulting,False,,3,0,0.7,Medium,"Machine Learning, Deep Learning",2023-12-12
+USR-0239,51,Male,Germany,Bachelor's,Software Engineer,29,Consulting,False,,4,3,0.7,Low,"Prompt Engineering, NLP",2023-01-13
+USR-0240,49,Female,Brazil,High School,Data Analyst,26,Healthcare,False,,4,1,0.7,High,AI for Business,2024-06-19
+USR-0241,29,Female,Australia,Master's,Teacher,11,Retail,True,Machine Learning,4,4,0.26,Medium,,2024-01-25
+USR-0242,36,Male,India,Bachelor's,Teacher,18,Media,False,,3,1,0.7,High,"Python, Data Analysis, AI Ethics",2024-06-10
+USR-0243,39,Male,USA,Master's,Financial Advisor,19,Tech,True,"Prompt Engineering, Machine Learning, Natural Language Processing",4,2,0.17,Low,,2024-06-04
+USR-0244,50,Male,USA,Master's,Admin Assistant,29,Manufacturing,True,"Data Science, AI Ethics, Machine Learning",3,1,0.35,High,,2024-05-15
+USR-0245,56,Female,Germany,Master's,AI Specialist,37,Media,False,,2,2,0.7,Low,"Python, Data Analysis, AI Ethics",2023-11-16
+USR-0246,54,Female,India,Bachelor's,AI Specialist,30,Manufacturing,True,"Data Science, Natural Language Processing, Prompt Engineering",3,0,0.38,Low,,2023-12-18
+USR-0247,32,Male,Australia,Bachelor's,Operations Manager,13,Manufacturing,False,,4,1,0.7,Medium,AI for Business,2024-05-18
+USR-0248,42,Female,USA,High School,Nurse,24,Media,False,,2,0,0.7,High,"Python, Data Analysis, AI Ethics",2024-01-24
+USR-0249,38,Female,Canada,PhD,Content Creator,14,Consulting,False,,3,0,0.7,Low,AI for Business,2023-08-21
+USR-0250,56,Female,Brazil,Bachelor's,Operations Manager,35,Education,False,,4,2,0.7,Medium,"Python, Data Analysis, AI Ethics",2023-10-03
+USR-0251,40,Female,USA,Bachelor's,Retail Manager,16,Manufacturing,False,,3,1,0.7,High,"Machine Learning, Deep Learning",2023-04-05
+USR-0252,51,Female,USA,Bachelor's,Admin Assistant,33,Education,False,,3,0,0.7,High,"Machine Learning, Deep Learning",2024-01-11
+USR-0253,32,Female,Germany,PhD,Teacher,12,Consulting,True,"Machine Learning, Prompt Engineering, Data Science",5,2,0.3,High,,2023-05-21
+USR-0254,59,Male,Australia,High School,Teacher,36,Consulting,False,,3,1,0.7,Low,"Python, Data Analysis, AI Ethics",2023-02-25
+USR-0255,51,Male,USA,Bachelor's,Admin Assistant,32,Retail,True,"Data Science, Computer Vision",3,0,0.38,High,,2024-04-20
+USR-0256,33,Female,France,Bachelor's,Software Engineer,11,Tech,False,,5,1,0.7,Low,"Prompt Engineering, NLP",2024-05-03
+USR-0257,33,Male,Australia,Bachelor's,Retail Manager,14,Retail,False,,5,4,0.7,High,"Machine Learning, Deep Learning",2023-07-28
+USR-0258,23,Female,France,Bachelor's,AI Specialist,0,Manufacturing,False,,4,2,0.7,Low,AI for Business,2024-05-30
+USR-0259,35,Female,USA,Bachelor's,Content Creator,14,Manufacturing,False,,4,3,0.7,Low,"Python, Data Analysis, AI Ethics",2023-12-23
+USR-0260,37,Male,USA,Master's,Data Analyst,15,Healthcare,False,,5,3,0.7,High,AI for Business,2023-04-16
+USR-0261,53,Female,USA,Bachelor's,AI Specialist,33,Finance,False,,4,0,0.7,Low,AI for Business,2024-06-13
+USR-0262,55,Male,Canada,Bachelor's,Marketing Coordinator,34,Manufacturing,True,"AI Ethics, Prompt Engineering",3,1,0.41,Medium,,2024-01-29
+USR-0263,52,Female,India,Bachelor's,Financial Advisor,28,Manufacturing,False,,4,5,0.7,Medium,"Machine Learning, Deep Learning",2023-05-07
+USR-0264,60,Male,India,Master's,AI Specialist,41,Retail,False,,3,2,0.7,Low,"Data Visualization, Python",2024-01-27
+USR-0265,23,Female,Brazil,Bachelor's,Admin Assistant,3,Retail,False,,4,4,0.7,High,"Data Visualization, Python",2023-09-08
+USR-0266,33,Female,India,Bachelor's,Teacher,15,Retail,False,,4,5,0.7,High,"Python, Data Analysis, AI Ethics",2024-01-24
+USR-0267,33,Female,Australia,Master's,Software Engineer,15,Retail,True,Deep Learning,4,1,0.27,Low,,2024-02-06
+USR-0268,43,Female,Brazil,Bachelor's,Financial Advisor,19,Manufacturing,False,,4,2,0.7,Medium,"Data Visualization, Python",2023-02-16
+USR-0269,53,Male,India,High School,Data Analyst,33,Tech,True,Natural Language Processing,2,0,0.35,Medium,,2023-01-14
+USR-0270,25,Male,India,Bachelor's,AI Specialist,4,Manufacturing,False,,5,1,0.7,Low,"Prompt Engineering, NLP",2024-03-14
+USR-0271,36,Male,France,Bachelor's,Retail Manager,17,Finance,False,,4,2,0.7,High,"Machine Learning, Deep Learning",2024-07-12
+USR-0272,32,Female,France,PhD,Operations Manager,12,Retail,False,,5,0,0.7,Medium,"Machine Learning, Deep Learning",2024-01-01
+USR-0273,28,Female,Australia,Bachelor's,Financial Advisor,5,Finance,False,,3,2,0.7,Low,"Data Visualization, Python",2024-06-04
+USR-0274,32,Male,USA,Master's,Software Engineer,14,Media,True,Computer Vision,4,2,0.25,Low,,2023-11-24
+USR-0275,33,Male,USA,Bachelor's,Financial Advisor,9,Finance,False,,4,4,0.7,Medium,"Data Visualization, Python",2024-01-01
+USR-0276,45,Non-Binary,USA,Master's,Content Creator,24,Tech,False,,3,0,0.7,Low,"Python, Data Analysis, AI Ethics",2023-08-22
+USR-0277,47,Female,Australia,Bachelor's,Content Creator,27,Retail,False,,3,2,0.7,Low,"Data Visualization, Python",2023-02-20
+USR-0278,37,Male,UK,Bachelor's,Teacher,16,Manufacturing,False,,5,4,0.7,Low,"Data Visualization, Python",2023-12-15
+USR-0279,39,Male,Brazil,Bachelor's,AI Specialist,18,Consulting,False,,4,3,0.7,Low,"Machine Learning, Deep Learning",2023-03-11
+USR-0280,25,Male,France,High School,Marketing Coordinator,2,Retail,False,,5,5,0.7,High,"Machine Learning, Deep Learning",2023-09-06
+USR-0281,25,Female,Brazil,PhD,Software Engineer,4,Media,False,,5,5,0.7,Low,"Python, Data Analysis, AI Ethics",2023-03-09
+USR-0282,26,Male,USA,PhD,Teacher,3,Finance,False,,5,4,0.7,Low,"Python, Data Analysis, AI Ethics",2023-11-21
+USR-0283,42,Female,USA,Bachelor's,Retail Manager,21,Manufacturing,False,,4,3,0.7,High,"Data Visualization, Python",2023-03-13
+USR-0284,55,Male,Canada,High School,Admin Assistant,36,Education,False,,4,4,0.7,High,"Machine Learning, Deep Learning",2024-06-22
+USR-0285,35,Male,UK,High School,Admin Assistant,16,Finance,False,,3,2,0.7,High,"Prompt Engineering, NLP",2024-03-28
+USR-0286,47,Male,Germany,Bachelor's,Financial Advisor,23,Manufacturing,False,,3,0,0.7,Low,"Machine Learning, Deep Learning",2023-12-16
+USR-0287,23,Male,Germany,Bachelor's,Software Engineer,5,Retail,False,,5,5,0.7,Low,"Data Visualization, Python",2023-03-09
+USR-0288,59,Male,Germany,High School,Nurse,35,Education,False,,4,1,0.7,Medium,"Data Visualization, Python",2023-08-29
+USR-0289,38,Non-Binary,USA,Bachelor's,AI Specialist,16,Consulting,False,,5,4,0.7,Low,"Data Visualization, Python",2023-09-18
+USR-0290,48,Male,USA,Master's,Admin Assistant,30,Retail,True,Deep Learning,3,0,0.38,High,,2024-06-01
+USR-0291,39,Female,India,Master's,Nurse,16,Consulting,True,"Deep Learning, Natural Language Processing, Prompt Engineering",3,0,0.34,Medium,,2024-04-25
+USR-0292,39,Male,France,Bachelor's,AI Specialist,16,Finance,False,,5,4,0.7,Low,AI for Business,2024-04-16
+USR-0293,51,Female,India,Bachelor's,Operations Manager,30,Retail,False,,3,1,0.7,High,"Machine Learning, Deep Learning",2024-02-03
+USR-0294,28,Male,Australia,Bachelor's,Financial Advisor,5,Retail,False,,4,0,0.7,High,"Python, Data Analysis, AI Ethics",2023-09-08
+USR-0295,28,Male,USA,PhD,Teacher,5,Media,False,,5,4,0.7,Low,"Python, Data Analysis, AI Ethics",2023-06-03
+USR-0296,30,Male,USA,Bachelor's,Financial Advisor,12,Finance,False,,5,2,0.7,Low,"Python, Data Analysis, AI Ethics",2023-02-15
+USR-0297,49,Female,France,Bachelor's,Teacher,25,Media,False,,4,2,0.7,Medium,AI for Business,2023-02-09
+USR-0298,23,Female,USA,Bachelor's,Financial Advisor,0,Retail,False,,4,0,0.7,Low,"Prompt Engineering, NLP",2024-07-20
+USR-0299,35,Male,USA,Other,Data Analyst,15,Education,False,,4,0,0.7,High,"Python, Data Analysis, AI Ethics",2024-03-05
+USR-0300,46,Female,Brazil,High School,AI Specialist,28,Finance,False,,2,0,0.7,Low,"Data Visualization, Python",2023-11-08
+USR-0301,38,Female,Australia,PhD,Data Analyst,17,Manufacturing,True,Prompt Engineering,3,0,0.29,High,,2023-10-15
+USR-0302,45,Female,Brazil,Master's,Nurse,25,Healthcare,False,,3,2,0.7,High,"Python, Data Analysis, AI Ethics",2024-06-13
+USR-0303,42,Female,Canada,Bachelor's,Teacher,18,Manufacturing,False,,4,2,0.7,Low,AI for Business,2023-05-09
+USR-0304,55,Male,Brazil,Master's,Marketing Coordinator,33,Media,True,Computer Vision,2,2,0.43,Medium,,2023-04-04
+USR-0305,28,Male,India,Bachelor's,Software Engineer,6,Healthcare,False,,4,3,0.7,Low,"Machine Learning, Deep Learning",2024-05-23
+USR-0306,30,Female,France,Bachelor's,Nurse,9,Manufacturing,True,"Prompt Engineering, Machine Learning, Computer Vision",5,1,0.28,High,,2023-06-29
+USR-0307,59,Male,UK,Bachelor's,AI Specialist,41,Media,False,,2,2,0.7,Low,"Data Visualization, Python",2023-06-11
+USR-0308,44,Male,Australia,Bachelor's,Software Engineer,22,Tech,False,,3,2,0.7,Low,"Python, Data Analysis, AI Ethics",2023-10-21
+USR-0309,58,Male,Australia,PhD,Admin Assistant,39,Finance,True,"Computer Vision, Data Science, Natural Language Processing",2,2,0.29,High,,2023-10-28
+USR-0310,36,Female,Australia,High School,Teacher,13,Consulting,True,Computer Vision,4,3,0.36,Low,,2024-06-16
+USR-0311,50,Male,Canada,Master's,AI Specialist,28,Finance,True,"Prompt Engineering, Machine Learning, Deep Learning",4,0,0.26,Low,,2023-05-02
+USR-0312,55,Female,Australia,Bachelor's,Teacher,36,Manufacturing,False,,2,1,0.7,Medium,"Data Visualization, Python",2024-06-25
+USR-0313,33,Female,Australia,High School,Admin Assistant,13,Consulting,False,,4,5,0.7,High,"Machine Learning, Deep Learning",2023-12-28
+USR-0314,39,Male,India,PhD,Financial Advisor,18,Manufacturing,False,,5,3,0.7,High,"Python, Data Analysis, AI Ethics",2023-09-16
+USR-0315,37,Prefer Not to Say,USA,Bachelor's,Nurse,13,Retail,False,,5,5,0.7,Medium,"Python, Data Analysis, AI Ethics",2023-10-03
+USR-0316,52,Female,Germany,Master's,Nurse,32,Tech,False,,3,2,0.7,Medium,"Python, Data Analysis, AI Ethics",2023-08-13
+USR-0317,43,Male,USA,Other,Teacher,25,Consulting,False,,4,0,0.7,High,"Python, Data Analysis, AI Ethics",2023-03-01
+USR-0318,59,Female,India,Bachelor's,Admin Assistant,39,Consulting,False,,3,2,0.7,High,"Prompt Engineering, NLP",2024-02-08
+USR-0319,39,Male,Germany,Bachelor's,Financial Advisor,17,Healthcare,False,,5,3,0.7,High,AI for Business,2023-05-28
+USR-0320,29,Female,USA,Bachelor's,Data Analyst,7,Education,False,,4,4,0.7,Medium,"Prompt Engineering, NLP",2023-02-09
+USR-0321,27,Male,UK,High School,Teacher,7,Media,False,,4,2,0.7,Low,AI for Business,2023-12-17
+USR-0322,37,Male,India,High School,Software Engineer,17,Manufacturing,False,,4,1,0.7,Low,"Python, Data Analysis, AI Ethics",2023-08-16
+USR-0323,32,Male,Canada,Master's,Financial Advisor,10,Media,False,,5,1,0.7,Medium,"Data Visualization, Python",2023-02-04
+USR-0324,45,Female,Australia,Master's,Nurse,24,Finance,False,,2,0,0.7,Low,"Python, Data Analysis, AI Ethics",2023-04-16
+USR-0325,39,Male,India,Master's,Operations Manager,19,Retail,False,,5,1,0.7,Medium,AI for Business,2023-06-17
+USR-0326,54,Female,India,Master's,Marketing Coordinator,35,Media,True,"Deep Learning, Machine Learning",2,1,0.45,Medium,,2024-05-07
+USR-0327,54,Male,Germany,Bachelor's,Software Engineer,31,Manufacturing,False,,3,1,0.7,Low,"Data Visualization, Python",2024-03-17
+USR-0328,24,Female,India,Bachelor's,Admin Assistant,0,Manufacturing,False,,5,5,0.7,High,AI for Business,2023-06-22
+USR-0329,50,Male,Canada,Master's,Data Analyst,31,Consulting,False,,3,2,0.7,Medium,AI for Business,2024-07-06
+USR-0330,52,Male,Canada,Bachelor's,Marketing Coordinator,33,Healthcare,False,,4,1,0.7,Low,AI for Business,2023-01-14
+USR-0331,32,Female,UK,Bachelor's,Operations Manager,9,Finance,False,,5,1,0.7,High,"Prompt Engineering, NLP",2023-06-11
+USR-0332,36,Female,Germany,Master's,Financial Advisor,14,Finance,True,Machine Learning,5,0,0.25,Medium,,2023-12-31
+USR-0333,46,Female,UK,Bachelor's,Nurse,28,Education,False,,4,5,0.7,Medium,"Data Visualization, Python",2023-11-05
+USR-0334,50,Male,UK,Bachelor's,Data Analyst,31,Media,False,,3,1,0.7,Medium,AI for Business,2024-03-21
+USR-0335,48,Female,Brazil,Bachelor's,Operations Manager,27,Healthcare,False,,2,0,0.7,Medium,"Prompt Engineering, NLP",2023-12-01
+USR-0336,43,Female,Brazil,Bachelor's,Content Creator,24,Education,False,,4,5,0.7,Low,"Prompt Engineering, NLP",2023-09-24
+USR-0337,33,Male,India,Bachelor's,Financial Advisor,13,Finance,False,,4,1,0.7,High,AI for Business,2023-03-08
+USR-0338,40,Male,USA,PhD,Data Analyst,22,Consulting,False,,4,1,0.7,High,"Python, Data Analysis, AI Ethics",2024-05-03
+USR-0339,47,Female,France,High School,Retail Manager,24,Media,True,"Machine Learning, AI Ethics",3,0,0.46,High,,2023-09-19
+USR-0340,44,Female,USA,Other,Operations Manager,24,Media,False,,2,2,0.7,High,"Data Visualization, Python",2024-05-24
+USR-0341,51,Male,UK,Bachelor's,AI Specialist,30,Finance,False,,3,0,0.7,Low,AI for Business,2023-03-18
+USR-0342,52,Prefer Not to Say,Brazil,Master's,Content Creator,33,Manufacturing,True,Natural Language Processing,3,1,0.4,Low,,2023-01-16
+USR-0343,23,Female,India,Master's,Marketing Coordinator,4,Education,True,"AI Ethics, Natural Language Processing, Computer Vision",4,3,0.28,Medium,,2023-07-25
+USR-0344,30,Female,UK,PhD,Nurse,9,Healthcare,True,Data Science,3,2,0.29,High,,2023-11-02
+USR-0345,51,Female,Canada,Bachelor's,Retail Manager,28,Finance,False,,3,1,0.7,High,AI for Business,2023-12-14
+USR-0346,36,Male,India,Bachelor's,Marketing Coordinator,18,Consulting,False,,3,1,0.7,High,"Prompt Engineering, NLP",2023-09-03
+USR-0347,48,Female,France,Master's,AI Specialist,28,Manufacturing,False,,4,1,0.7,Low,"Machine Learning, Deep Learning",2024-01-04
+USR-0348,46,Male,Canada,Bachelor's,Financial Advisor,24,Media,False,,3,0,0.7,High,"Python, Data Analysis, AI Ethics",2023-02-01
+USR-0349,40,Female,France,Master's,Nurse,18,Finance,True,Machine Learning,2,0,0.17,High,,2023-06-01
+USR-0350,22,Male,USA,Master's,AI Specialist,1,Healthcare,False,,4,0,0.7,Low,"Machine Learning, Deep Learning",2023-06-24
+USR-0351,52,Male,USA,Bachelor's,Nurse,29,Manufacturing,False,,3,1,0.7,Medium,"Machine Learning, Deep Learning",2024-02-26
+USR-0352,44,Female,India,Bachelor's,Marketing Coordinator,21,Manufacturing,False,,3,0,0.7,Low,"Machine Learning, Deep Learning",2023-07-09
+USR-0353,33,Male,France,Master's,Financial Advisor,14,Healthcare,False,,4,1,0.7,Medium,"Data Visualization, Python",2023-04-22
+USR-0354,55,Female,Germany,Bachelor's,Operations Manager,35,Tech,False,,2,2,0.7,Low,"Prompt Engineering, NLP",2024-05-18
+USR-0355,57,Male,France,Bachelor's,Marketing Coordinator,33,Media,False,,2,2,0.7,High,AI for Business,2024-01-20
+USR-0356,38,Female,France,Bachelor's,Marketing Coordinator,18,Consulting,False,,4,4,0.7,Medium,"Machine Learning, Deep Learning",2023-02-20
+USR-0357,37,Male,Canada,Bachelor's,Operations Manager,14,Healthcare,False,,5,1,0.7,Medium,AI for Business,2024-01-01
+USR-0358,53,Female,India,Master's,Financial Advisor,32,Media,False,,4,4,0.7,Low,"Data Visualization, Python",2023-04-02
+USR-0359,38,Male,India,Bachelor's,Admin Assistant,17,Healthcare,False,,4,1,0.7,High,"Machine Learning, Deep Learning",2023-09-12
+USR-0360,42,Female,USA,Master's,Financial Advisor,22,Manufacturing,True,"Machine Learning, AI Ethics",3,2,0.34,Medium,,2024-03-15
+USR-0361,59,Male,Brazil,Master's,Software Engineer,40,Media,False,,2,0,0.7,Low,"Python, Data Analysis, AI Ethics",2024-05-05
+USR-0362,38,Male,India,Master's,Data Analyst,14,Healthcare,False,,4,4,0.7,Low,"Machine Learning, Deep Learning",2024-01-25
+USR-0363,38,Female,Canada,Bachelor's,Software Engineer,18,Finance,False,,5,5,0.7,Low,"Prompt Engineering, NLP",2023-04-02
+USR-0364,32,Female,UK,Bachelor's,Admin Assistant,10,Education,False,,5,5,0.7,High,"Data Visualization, Python",2023-01-25
+USR-0365,40,Male,France,Other,Software Engineer,22,Consulting,False,,4,2,0.7,Low,"Python, Data Analysis, AI Ethics",2023-08-15
+USR-0366,53,Male,USA,PhD,Data Analyst,29,Healthcare,True,AI Ethics,2,0,0.4,Low,,2023-11-22
+USR-0367,37,Male,USA,Bachelor's,Marketing Coordinator,18,Retail,False,,3,2,0.7,Medium,"Data Visualization, Python",2023-06-29
+USR-0368,48,Female,USA,Bachelor's,Nurse,26,Manufacturing,False,,4,2,0.7,High,"Data Visualization, Python",2023-04-03
+USR-0369,33,Male,India,Bachelor's,Admin Assistant,10,Education,False,,5,2,0.7,High,"Python, Data Analysis, AI Ethics",2023-06-04
+USR-0370,22,Male,Brazil,Bachelor's,Financial Advisor,0,Media,False,,4,1,0.7,Medium,"Python, Data Analysis, AI Ethics",2024-03-03
+USR-0371,38,Male,Australia,Bachelor's,Content Creator,17,Healthcare,False,,5,4,0.7,Low,"Python, Data Analysis, AI Ethics",2024-03-07
+USR-0372,25,Male,Canada,Bachelor's,Operations Manager,6,Consulting,False,,3,1,0.7,Medium,"Prompt Engineering, NLP",2023-03-14
+USR-0373,30,Male,France,Bachelor's,Content Creator,11,Retail,False,,4,2,0.7,Low,"Prompt Engineering, NLP",2023-01-21
+USR-0374,58,Female,India,Master's,Teacher,35,Media,False,,2,0,0.7,High,AI for Business,2023-01-26
+USR-0375,24,Prefer Not to Say,Australia,Bachelor's,Marketing Coordinator,3,Finance,False,,3,1,0.7,Low,"Data Visualization, Python",2024-06-02
+USR-0376,49,Male,UK,Bachelor's,Nurse,25,Healthcare,False,,2,2,0.7,High,"Machine Learning, Deep Learning",2024-01-20
+USR-0377,57,Male,Canada,Other,Retail Manager,38,Consulting,False,,3,0,0.7,High,AI for Business,2023-08-28
+USR-0378,49,Male,USA,Master's,AI Specialist,31,Education,True,"Machine Learning, Data Science",3,1,0.38,Low,,2023-01-25
+USR-0379,33,Female,France,High School,Retail Manager,14,Retail,False,,4,1,0.7,High,"Prompt Engineering, NLP",2023-11-26
+USR-0380,47,Male,Australia,Bachelor's,Content Creator,28,Healthcare,False,,3,0,0.7,Low,"Prompt Engineering, NLP",2024-06-08
+USR-0381,27,Female,Germany,Bachelor's,Marketing Coordinator,6,Consulting,False,,5,4,0.7,High,"Data Visualization, Python",2024-01-20
+USR-0382,46,Male,Australia,Bachelor's,Software Engineer,27,Retail,False,,3,0,0.7,Low,AI for Business,2023-07-05
+USR-0383,22,Male,Germany,Master's,Admin Assistant,0,Retail,False,,5,0,0.7,High,"Python, Data Analysis, AI Ethics",2023-07-07
+USR-0384,36,Male,India,Master's,Marketing Coordinator,12,Retail,False,,5,4,0.7,Low,"Prompt Engineering, NLP",2023-12-21
+USR-0385,45,Male,France,Bachelor's,Data Analyst,23,Manufacturing,False,,2,1,0.7,Medium,"Data Visualization, Python",2024-02-05
+USR-0386,57,Female,India,High School,Data Analyst,38,Tech,False,,2,0,0.7,Medium,"Data Visualization, Python",2024-04-11
+USR-0387,40,Male,France,High School,Software Engineer,21,Finance,False,,4,1,0.7,Low,"Machine Learning, Deep Learning",2024-07-30
+USR-0388,52,Female,India,Bachelor's,Operations Manager,33,Consulting,False,,4,0,0.7,Medium,"Machine Learning, Deep Learning",2023-11-07
+USR-0389,36,Female,Germany,Bachelor's,Operations Manager,14,Consulting,False,,5,2,0.7,Medium,"Python, Data Analysis, AI Ethics",2024-04-30
+USR-0390,29,Male,UK,Master's,Data Analyst,11,Healthcare,False,,4,1,0.7,Medium,"Python, Data Analysis, AI Ethics",2023-09-01
+USR-0391,31,Female,France,Bachelor's,Marketing Coordinator,12,Media,False,,5,4,0.7,Low,"Prompt Engineering, NLP",2023-12-18
+USR-0392,22,Female,Australia,Bachelor's,Nurse,0,Media,False,,5,3,0.7,High,"Data Visualization, Python",2024-05-21
+USR-0393,28,Female,India,High School,Retail Manager,9,Consulting,False,,5,2,0.7,High,AI for Business,2024-02-26
+USR-0394,45,Female,USA,Other,Operations Manager,26,Consulting,False,,2,0,0.7,High,"Machine Learning, Deep Learning",2023-07-29
+USR-0395,55,Male,Australia,Bachelor's,Data Analyst,34,Tech,False,,3,0,0.7,Medium,"Machine Learning, Deep Learning",2023-04-06
+USR-0396,57,Male,USA,High School,AI Specialist,33,Retail,False,,3,2,0.7,Low,"Prompt Engineering, NLP",2024-05-10
+USR-0397,30,Female,Australia,Bachelor's,Data Analyst,10,Finance,False,,5,5,0.7,Medium,"Data Visualization, Python",2024-02-06
+USR-0398,59,Female,Canada,Bachelor's,Retail Manager,39,Consulting,False,,3,2,0.7,High,AI for Business,2024-06-25
+USR-0399,28,Male,Brazil,Other,Nurse,9,Education,False,,4,1,0.7,Medium,"Data Visualization, Python",2023-01-29
+USR-0400,24,Female,UK,Bachelor's,Financial Advisor,3,Tech,False,,5,0,0.7,Low,AI for Business,2023-01-26
+USR-0401,35,Female,India,PhD,AI Specialist,12,Manufacturing,True,"Data Science, Prompt Engineering",4,1,0.3,Low,,2023-01-26
+USR-0402,34,Male,Canada,Master's,AI Specialist,12,Manufacturing,False,,5,1,0.7,Low,"Machine Learning, Deep Learning",2024-02-22
+USR-0403,27,Male,USA,Bachelor's,Nurse,8,Media,False,,5,1,0.7,High,"Data Visualization, Python",2024-07-07
+USR-0404,40,Female,Brazil,Master's,Teacher,20,Consulting,True,"Machine Learning, Natural Language Processing, Deep Learning",3,2,0.35,Medium,,2023-03-08
+USR-0405,51,Female,Canada,High School,Marketing Coordinator,28,Manufacturing,False,,3,0,0.7,Medium,"Data Visualization, Python",2023-12-02
+USR-0406,43,Female,UK,Master's,Software Engineer,21,Tech,False,,3,2,0.7,Low,"Prompt Engineering, NLP",2023-01-06
+USR-0407,26,Female,Australia,Bachelor's,Operations Manager,4,Healthcare,False,,5,4,0.7,Medium,"Machine Learning, Deep Learning",2023-12-25
+USR-0408,42,Female,Australia,Bachelor's,Content Creator,24,Finance,False,,3,0,0.7,Low,"Data Visualization, Python",2023-08-31
+USR-0409,42,Male,UK,PhD,Software Engineer,24,Education,False,,2,0,0.7,Low,"Prompt Engineering, NLP",2024-07-13
+USR-0410,24,Female,Australia,Master's,Software Engineer,6,Finance,False,,5,4,0.7,Low,"Prompt Engineering, NLP",2023-04-23
+USR-0411,46,Female,UK,Bachelor's,Teacher,22,Education,False,,4,1,0.7,Medium,"Prompt Engineering, NLP",2023-07-22
+USR-0412,42,Female,Brazil,High School,Retail Manager,20,Media,False,,3,0,0.7,High,"Data Visualization, Python",2024-04-08
+USR-0413,40,Female,Germany,Bachelor's,Content Creator,16,Tech,True,Computer Vision,4,5,0.21,Low,,2023-04-15
+USR-0414,23,Female,France,Bachelor's,Financial Advisor,0,Education,False,,4,0,0.7,Medium,"Prompt Engineering, NLP",2023-08-13
+USR-0415,46,Male,Brazil,Other,Admin Assistant,23,Manufacturing,False,,3,0,0.7,High,"Data Visualization, Python",2024-01-16
+USR-0416,54,Female,Germany,Master's,Software Engineer,32,Manufacturing,False,,3,0,0.7,Low,"Prompt Engineering, NLP",2024-03-05
+USR-0417,27,Male,UK,High School,AI Specialist,8,Manufacturing,False,,5,1,0.7,Low,"Data Visualization, Python",2023-03-12
+USR-0418,59,Female,UK,Bachelor's,Software Engineer,38,Consulting,False,,4,3,0.7,Low,"Machine Learning, Deep Learning",2024-01-15
+USR-0419,26,Female,Australia,Other,Software Engineer,2,Manufacturing,True,"Data Science, Deep Learning",4,1,0.36,Low,,2023-12-05
+USR-0420,45,Female,Germany,Bachelor's,Teacher,21,Media,False,,2,2,0.7,Medium,"Data Visualization, Python",2023-03-25
+USR-0421,33,Male,India,Master's,AI Specialist,9,Consulting,True,"Machine Learning, Deep Learning",5,5,0.35,Low,,2023-12-20
+USR-0422,29,Male,France,Bachelor's,Content Creator,5,Media,False,,5,3,0.7,Low,"Machine Learning, Deep Learning",2023-05-02
+USR-0423,33,Female,Australia,Bachelor's,Software Engineer,12,Manufacturing,False,,4,1,0.7,Low,"Machine Learning, Deep Learning",2023-11-13
+USR-0424,49,Male,USA,Master's,Software Engineer,28,Manufacturing,True,Prompt Engineering,3,2,0.37,Low,,2023-04-29
+USR-0425,50,Male,USA,Master's,Teacher,26,Manufacturing,False,,4,3,0.7,Low,"Machine Learning, Deep Learning",2024-07-13
+USR-0426,36,Female,Brazil,Bachelor's,Retail Manager,16,Tech,False,,4,3,0.7,High,"Prompt Engineering, NLP",2023-12-15
+USR-0427,60,Female,Brazil,High School,Nurse,38,Education,False,,3,1,0.7,High,"Python, Data Analysis, AI Ethics",2023-04-29
+USR-0428,55,Female,France,Master's,Marketing Coordinator,33,Tech,False,,4,2,0.7,High,"Python, Data Analysis, AI Ethics",2024-03-12
+USR-0429,45,Male,Canada,Master's,Software Engineer,21,Finance,False,,4,3,0.7,Low,"Python, Data Analysis, AI Ethics",2024-02-27
+USR-0430,28,Prefer Not to Say,India,Other,Retail Manager,5,Manufacturing,False,,5,0,0.7,High,"Machine Learning, Deep Learning",2023-12-12
+USR-0431,30,Male,USA,Bachelor's,Retail Manager,8,Media,False,,4,3,0.7,High,"Prompt Engineering, NLP",2024-01-30
+USR-0432,24,Female,Canada,Master's,Nurse,4,Manufacturing,True,AI Ethics,5,4,0.29,Low,,2024-07-24
+USR-0433,27,Female,India,Bachelor's,Admin Assistant,5,Retail,False,,5,2,0.7,High,AI for Business,2024-04-30
+USR-0434,37,Female,France,High School,Data Analyst,16,Media,True,"Natural Language Processing, AI Ethics, Machine Learning",5,2,0.45,Medium,,2023-10-08
+USR-0435,44,Female,USA,High School,Data Analyst,22,Manufacturing,False,,4,5,0.7,High,"Machine Learning, Deep Learning",2023-11-05
+USR-0436,51,Male,Brazil,Bachelor's,Data Analyst,28,Tech,False,,3,2,0.7,Low,"Prompt Engineering, NLP",2024-02-20
+USR-0437,40,Female,India,Bachelor's,AI Specialist,18,Media,False,,4,2,0.7,Low,"Machine Learning, Deep Learning",2024-07-14
+USR-0438,44,Male,Germany,Other,Admin Assistant,23,Healthcare,False,,3,1,0.7,High,"Data Visualization, Python",2023-11-22
+USR-0439,53,Female,USA,Master's,AI Specialist,32,Education,True,AI Ethics,2,1,0.4,Low,,2024-04-20
+USR-0440,22,Male,India,Bachelor's,Software Engineer,1,Media,False,,5,2,0.7,Low,"Prompt Engineering, NLP",2023-11-18
+USR-0441,36,Prefer Not to Say,France,Bachelor's,Data Analyst,18,Tech,True,"AI Ethics, Data Science, Prompt Engineering",4,2,0.21,Medium,,2024-03-06
+USR-0442,52,Female,USA,High School,Software Engineer,34,Consulting,False,,3,1,0.7,Low,"Prompt Engineering, NLP",2023-11-20
+USR-0443,41,Male,Canada,Bachelor's,Retail Manager,17,Healthcare,False,,4,2,0.7,High,"Machine Learning, Deep Learning",2023-02-07
+USR-0444,26,Female,India,Bachelor's,AI Specialist,5,Consulting,False,,4,1,0.7,Low,"Data Visualization, Python",2024-04-11
+USR-0445,34,Male,UK,Bachelor's,Nurse,16,Education,False,,4,3,0.7,Low,"Data Visualization, Python",2024-01-07
+USR-0446,26,Female,UK,Bachelor's,Admin Assistant,6,Finance,False,,4,3,0.7,High,"Machine Learning, Deep Learning",2023-02-10
+USR-0447,48,Male,Germany,Bachelor's,Operations Manager,30,Retail,False,,3,2,0.7,Low,AI for Business,2023-04-07
+USR-0448,29,Male,Brazil,Bachelor's,Teacher,7,Education,False,,4,1,0.7,Low,"Machine Learning, Deep Learning",2023-04-24
+USR-0449,48,Female,India,High School,Marketing Coordinator,25,Retail,False,,3,0,0.7,Medium,"Prompt Engineering, NLP",2024-01-17
+USR-0450,60,Male,India,Bachelor's,Financial Advisor,36,Education,True,Deep Learning,3,0,0.4,Medium,,2024-07-11
+USR-0451,58,Male,India,Bachelor's,Data Analyst,36,Consulting,False,,4,3,0.7,Medium,"Prompt Engineering, NLP",2023-10-29
+USR-0452,57,Female,India,High School,Data Analyst,35,Education,False,,3,1,0.7,Medium,"Machine Learning, Deep Learning",2023-06-14
+USR-0453,49,Male,Australia,Bachelor's,Content Creator,28,Media,False,,4,2,0.7,Low,"Prompt Engineering, NLP",2023-03-21
+USR-0454,31,Female,Australia,Bachelor's,AI Specialist,8,Tech,False,,4,0,0.7,Low,"Data Visualization, Python",2023-08-16
+USR-0455,47,Female,India,Bachelor's,Retail Manager,28,Manufacturing,False,,4,5,0.7,High,"Data Visualization, Python",2024-07-23
+USR-0456,24,Male,Australia,Bachelor's,Operations Manager,1,Tech,False,,5,1,0.7,Medium,"Data Visualization, Python",2023-07-03
+USR-0457,31,Female,UK,Bachelor's,Financial Advisor,7,Healthcare,False,,5,1,0.7,High,AI for Business,2023-09-14
+USR-0458,60,Male,India,Bachelor's,Content Creator,36,Retail,False,,3,1,0.7,Low,"Machine Learning, Deep Learning",2024-06-22
+USR-0459,28,Female,Brazil,Bachelor's,Content Creator,9,Tech,False,,5,1,0.7,Low,"Python, Data Analysis, AI Ethics",2023-03-22
+USR-0460,43,Female,India,Bachelor's,Data Analyst,22,Finance,False,,4,1,0.7,Medium,"Machine Learning, Deep Learning",2023-05-09
+USR-0461,38,Male,Brazil,Bachelor's,Admin Assistant,14,Consulting,False,,5,5,0.7,High,"Data Visualization, Python",2023-10-02
+USR-0462,32,Male,Australia,Bachelor's,Content Creator,10,Finance,False,,3,2,0.7,Low,"Machine Learning, Deep Learning",2023-12-30
+USR-0463,36,Female,India,Bachelor's,AI Specialist,17,Healthcare,False,,4,3,0.7,Low,"Python, Data Analysis, AI Ethics",2024-07-04
+USR-0464,23,Female,USA,Bachelor's,AI Specialist,0,Finance,False,,4,0,0.7,Low,"Python, Data Analysis, AI Ethics",2023-06-12
+USR-0465,40,Male,India,Master's,Admin Assistant,21,Media,False,,4,5,0.7,High,"Machine Learning, Deep Learning",2023-08-12
+USR-0466,29,Female,India,PhD,Financial Advisor,10,Retail,False,,5,1,0.7,Medium,"Machine Learning, Deep Learning",2023-01-21
+USR-0467,28,Male,India,PhD,Software Engineer,6,Media,True,AI Ethics,5,4,0.27,Low,,2024-04-15
+USR-0468,50,Male,USA,Bachelor's,Admin Assistant,28,Education,False,,4,4,0.7,High,"Machine Learning, Deep Learning",2023-05-30
+USR-0469,37,Male,UK,Bachelor's,Operations Manager,15,Healthcare,False,,4,2,0.7,Medium,"Machine Learning, Deep Learning",2023-08-24
+USR-0470,34,Female,India,Bachelor's,Retail Manager,16,Manufacturing,False,,4,5,0.7,High,"Machine Learning, Deep Learning",2024-02-25
+USR-0471,23,Female,Brazil,Bachelor's,Retail Manager,0,Finance,False,,5,2,0.7,High,AI for Business,2024-04-18
+USR-0472,39,Female,USA,Bachelor's,Financial Advisor,21,Tech,False,,4,0,0.7,High,"Python, Data Analysis, AI Ethics",2023-10-02
+USR-0473,54,Male,France,PhD,Financial Advisor,35,Finance,False,,2,2,0.7,Medium,"Python, Data Analysis, AI Ethics",2024-03-02
+USR-0474,23,Female,Germany,Bachelor's,Marketing Coordinator,4,Media,False,,5,2,0.7,Low,"Python, Data Analysis, AI Ethics",2023-06-16
+USR-0475,38,Female,India,Bachelor's,Admin Assistant,18,Finance,False,,5,5,0.7,High,"Python, Data Analysis, AI Ethics",2023-07-11
+USR-0476,37,Female,USA,High School,Financial Advisor,13,Media,False,,5,4,0.7,High,AI for Business,2023-06-24
+USR-0477,25,Female,Canada,Master's,Operations Manager,4,Education,True,"Machine Learning, Prompt Engineering, AI Ethics",3,1,0.27,Low,,2023-12-02
+USR-0478,39,Female,USA,Other,Marketing Coordinator,21,Finance,False,,5,5,0.7,Medium,"Machine Learning, Deep Learning",2024-04-06
+USR-0479,58,Male,Canada,Master's,Teacher,36,Media,True,"Prompt Engineering, Machine Learning, Computer Vision",2,1,0.39,Medium,,2024-03-27
+USR-0480,45,Male,Germany,Bachelor's,Software Engineer,21,Finance,False,,4,1,0.7,Low,"Prompt Engineering, NLP",2023-04-03
+USR-0481,43,Male,UK,Bachelor's,Retail Manager,24,Finance,False,,4,2,0.7,High,"Machine Learning, Deep Learning",2024-04-18
+USR-0482,33,Non-Binary,Brazil,Bachelor's,Financial Advisor,9,Consulting,False,,5,2,0.7,Medium,"Data Visualization, Python",2023-07-22
+USR-0483,56,Female,France,High School,AI Specialist,37,Tech,False,,4,4,0.7,Low,"Data Visualization, Python",2023-03-15
+USR-0484,37,Male,France,Bachelor's,Teacher,14,Finance,False,,3,2,0.7,Medium,"Prompt Engineering, NLP",2023-10-28
+USR-0485,39,Female,Germany,High School,Marketing Coordinator,21,Education,False,,3,2,0.7,Low,"Machine Learning, Deep Learning",2024-07-18
+USR-0486,32,Male,Canada,Master's,Marketing Coordinator,8,Media,False,,5,1,0.7,Medium,"Machine Learning, Deep Learning",2023-06-01
+USR-0487,47,Male,India,PhD,Retail Manager,29,Media,False,,3,2,0.7,High,AI for Business,2023-08-04
+USR-0488,57,Female,India,Bachelor's,Teacher,37,Healthcare,False,,2,0,0.7,High,"Python, Data Analysis, AI Ethics",2023-03-03
+USR-0489,28,Female,USA,Master's,Financial Advisor,4,Education,False,,5,0,0.7,Medium,"Machine Learning, Deep Learning",2023-08-30
+USR-0490,27,Male,USA,Master's,Teacher,8,Manufacturing,False,,5,2,0.7,High,"Python, Data Analysis, AI Ethics",2024-03-12
+USR-0491,55,Female,Germany,High School,Retail Manager,32,Media,False,,2,1,0.7,High,"Machine Learning, Deep Learning",2024-02-11
+USR-0492,49,Male,USA,High School,Admin Assistant,25,Healthcare,True,"Machine Learning, Natural Language Processing, Data Science",4,3,0.49,High,,2024-04-13
+USR-0493,59,Prefer Not to Say,France,Other,Teacher,36,Consulting,False,,4,3,0.7,Medium,AI for Business,2023-01-19
+USR-0494,52,Female,USA,Bachelor's,Operations Manager,29,Tech,False,,4,5,0.7,Medium,"Prompt Engineering, NLP",2024-02-11
+USR-0495,44,Female,UK,Bachelor's,Content Creator,21,Education,False,,3,2,0.7,Low,"Machine Learning, Deep Learning",2023-12-22
+USR-0496,35,Female,Canada,High School,Retail Manager,12,Education,False,,5,2,0.7,High,"Data Visualization, Python",2023-03-19
+USR-0497,57,Male,USA,Bachelor's,Teacher,35,Education,False,,4,4,0.7,Low,"Prompt Engineering, NLP",2024-06-16
+USR-0498,49,Female,Australia,PhD,Marketing Coordinator,31,Education,True,Prompt Engineering,2,0,0.44,Low,,2023-02-02
+USR-0499,46,Male,UK,Master's,Marketing Coordinator,22,Tech,True,"AI Ethics, Deep Learning, Prompt Engineering",3,1,0.27,Medium,,2023-08-18
+USR-0500,43,Female,Australia,Bachelor's,Admin Assistant,22,Healthcare,False,,3,1,0.7,High,"Prompt Engineering, NLP",2024-01-25
+USR-0501,44,Female,Brazil,Bachelor's,Financial Advisor,21,Retail,False,,4,3,0.7,High,"Data Visualization, Python",2024-04-30
+USR-0502,43,Male,USA,Bachelor's,Software Engineer,22,Manufacturing,False,,4,2,0.7,Low,"Machine Learning, Deep Learning",2023-08-25
+USR-0503,57,Male,USA,Bachelor's,Financial Advisor,38,Consulting,False,,4,2,0.7,High,AI for Business,2023-06-22
+USR-0504,48,Female,India,Master's,Nurse,30,Consulting,True,"Machine Learning, Computer Vision, Prompt Engineering",4,5,0.36,Medium,,2023-03-31
+USR-0505,33,Female,Germany,Bachelor's,Marketing Coordinator,9,Education,True,"Deep Learning, Data Science, AI Ethics",4,5,0.28,High,,2024-07-29
+USR-0506,39,Female,India,Bachelor's,Nurse,16,Finance,False,,4,4,0.7,Medium,"Prompt Engineering, NLP",2023-05-02
+USR-0507,52,Male,Canada,Bachelor's,Software Engineer,30,Retail,False,,3,0,0.7,Low,"Prompt Engineering, NLP",2024-05-06
+USR-0508,43,Male,USA,Bachelor's,AI Specialist,25,Tech,False,,3,2,0.7,Low,"Prompt Engineering, NLP",2023-12-28
+USR-0509,58,Male,Canada,High School,Content Creator,36,Healthcare,False,,4,2,0.7,Low,"Prompt Engineering, NLP",2023-08-08
+USR-0510,40,Male,France,Bachelor's,Retail Manager,19,Education,False,,4,0,0.7,High,"Data Visualization, Python",2023-05-02
+USR-0511,40,Female,USA,Bachelor's,Software Engineer,18,Education,False,,3,0,0.7,Low,AI for Business,2024-07-17
+USR-0512,23,Male,Brazil,High School,Retail Manager,3,Consulting,False,,4,0,0.7,High,"Python, Data Analysis, AI Ethics",2023-02-27
+USR-0513,51,Male,USA,Bachelor's,Content Creator,33,Finance,False,,3,1,0.7,Low,"Data Visualization, Python",2024-05-09
+USR-0514,50,Female,Australia,Bachelor's,Admin Assistant,26,Manufacturing,False,,4,1,0.7,High,"Prompt Engineering, NLP",2024-07-30
+USR-0515,27,Female,Australia,Bachelor's,Marketing Coordinator,5,Manufacturing,False,,5,3,0.7,High,"Data Visualization, Python",2024-05-10
+USR-0516,28,Male,Australia,Bachelor's,Admin Assistant,8,Consulting,False,,5,2,0.7,High,"Machine Learning, Deep Learning",2023-08-19
+USR-0517,43,Female,Germany,Master's,Teacher,23,Tech,True,"Computer Vision, Data Science, Deep Learning",2,0,0.16,Low,,2024-02-25
+USR-0518,47,Female,USA,Master's,Software Engineer,26,Media,True,Machine Learning,3,2,0.4,Low,,2023-05-04
+USR-0519,31,Female,France,Bachelor's,Operations Manager,10,Tech,True,"Data Science, Machine Learning",5,2,0.21,Low,,2024-07-01
+USR-0520,45,Male,UK,Bachelor's,Teacher,21,Media,False,,2,1,0.7,Low,"Python, Data Analysis, AI Ethics",2024-05-04
+USR-0521,35,Male,India,Bachelor's,Financial Advisor,14,Tech,False,,4,3,0.7,High,"Python, Data Analysis, AI Ethics",2023-08-09
+USR-0522,22,Male,India,Bachelor's,Content Creator,3,Manufacturing,False,,5,1,0.7,Low,"Python, Data Analysis, AI Ethics",2023-11-21
+USR-0523,30,Female,India,PhD,Nurse,6,Tech,False,,5,5,0.7,High,"Prompt Engineering, NLP",2024-02-13
+USR-0524,24,Male,Germany,Bachelor's,Financial Advisor,3,Finance,False,,5,2,0.7,Low,"Machine Learning, Deep Learning",2024-04-04
+USR-0525,42,Male,India,High School,Retail Manager,18,Finance,False,,3,2,0.7,High,"Python, Data Analysis, AI Ethics",2023-07-26
+USR-0526,31,Female,USA,Master's,Teacher,9,Tech,False,,4,2,0.7,Medium,"Machine Learning, Deep Learning",2023-01-24
+USR-0527,50,Female,France,Bachelor's,Nurse,26,Media,False,,3,1,0.7,High,"Prompt Engineering, NLP",2023-05-06
+USR-0528,48,Male,India,Bachelor's,Admin Assistant,28,Consulting,False,,4,2,0.7,High,"Python, Data Analysis, AI Ethics",2023-12-12
+USR-0529,57,Female,France,Bachelor's,Admin Assistant,38,Manufacturing,True,"Natural Language Processing, Machine Learning",4,0,0.37,High,,2024-01-07
+USR-0530,39,Female,India,Master's,Retail Manager,17,Media,False,,5,2,0.7,High,"Data Visualization, Python",2023-12-06
+USR-0531,44,Female,India,Bachelor's,Content Creator,21,Consulting,False,,3,0,0.7,Low,"Prompt Engineering, NLP",2023-04-26
+USR-0532,58,Male,Canada,Bachelor's,Admin Assistant,36,Consulting,False,,3,0,0.7,High,AI for Business,2024-02-12
+USR-0533,49,Non-Binary,India,Master's,AI Specialist,28,Retail,False,,2,1,0.7,Low,AI for Business,2023-09-02
+USR-0534,45,Male,UK,High School,Data Analyst,27,Healthcare,False,,2,2,0.7,High,"Machine Learning, Deep Learning",2024-03-05
+USR-0535,37,Male,France,Bachelor's,Financial Advisor,18,Retail,False,,5,4,0.7,Low,"Python, Data Analysis, AI Ethics",2023-02-19
+USR-0536,55,Male,India,High School,Content Creator,33,Consulting,False,,3,1,0.7,Low,"Data Visualization, Python",2024-04-13
+USR-0537,58,Male,Australia,Master's,Data Analyst,37,Tech,False,,2,0,0.7,Low,"Machine Learning, Deep Learning",2023-01-20
+USR-0538,40,Male,Germany,Other,Content Creator,20,Retail,False,,2,2,0.7,Low,AI for Business,2024-05-28
+USR-0539,47,Male,USA,Bachelor's,Content Creator,29,Finance,False,,4,4,0.7,Low,"Python, Data Analysis, AI Ethics",2023-10-14
+USR-0540,60,Male,India,Bachelor's,Data Analyst,37,Consulting,False,,3,2,0.7,High,"Data Visualization, Python",2024-02-05
+USR-0541,50,Female,Brazil,Master's,Admin Assistant,29,Manufacturing,False,,4,3,0.7,High,"Python, Data Analysis, AI Ethics",2024-05-18
+USR-0542,60,Male,Germany,Master's,Marketing Coordinator,39,Education,False,,3,1,0.7,Low,"Prompt Engineering, NLP",2024-05-12
+USR-0543,51,Female,Australia,Other,Retail Manager,33,Tech,True,"Computer Vision, AI Ethics, Machine Learning",3,2,0.43,High,,2023-08-22
+USR-0544,24,Female,Australia,High School,AI Specialist,4,Education,True,Machine Learning,5,2,0.4,Low,,2023-09-18
+USR-0545,41,Male,Germany,High School,Admin Assistant,21,Media,False,,4,4,0.7,High,"Machine Learning, Deep Learning",2023-02-05
+USR-0546,50,Female,India,Bachelor's,AI Specialist,30,Tech,False,,4,5,0.7,Low,"Data Visualization, Python",2024-04-20
+USR-0547,28,Male,UK,Master's,AI Specialist,4,Media,True,"Deep Learning, Computer Vision",5,3,0.27,Low,,2023-04-03
+USR-0548,40,Female,USA,Master's,Teacher,21,Retail,False,,3,2,0.7,Medium,AI for Business,2024-05-18
+USR-0549,41,Female,Brazil,Bachelor's,AI Specialist,18,Retail,False,,3,2,0.7,Low,"Data Visualization, Python",2024-04-09
+USR-0550,29,Female,India,Master's,Operations Manager,6,Consulting,False,,5,3,0.7,Medium,"Machine Learning, Deep Learning",2023-01-23
+USR-0551,24,Male,Canada,High School,Financial Advisor,5,Media,False,,4,5,0.7,High,AI for Business,2023-02-21
+USR-0552,46,Male,India,Bachelor's,Admin Assistant,27,Education,False,,3,0,0.7,High,"Machine Learning, Deep Learning",2023-05-15
+USR-0553,59,Male,France,High School,Operations Manager,39,Media,False,,4,4,0.7,Low,"Machine Learning, Deep Learning",2023-07-07
+USR-0554,35,Male,Brazil,Bachelor's,AI Specialist,17,Healthcare,False,,4,0,0.7,Low,AI for Business,2024-06-07
+USR-0555,40,Female,UK,Other,Marketing Coordinator,19,Media,False,,2,1,0.7,Medium,"Data Visualization, Python",2023-01-17
+USR-0556,28,Male,USA,Master's,Financial Advisor,7,Tech,True,Data Science,4,2,0.22,Medium,,2023-08-06
+USR-0557,30,Male,Canada,PhD,Admin Assistant,7,Finance,False,,4,1,0.7,High,"Data Visualization, Python",2024-06-08
+USR-0558,36,Male,USA,High School,Financial Advisor,16,Retail,False,,5,0,0.7,Medium,AI for Business,2024-03-30
+USR-0559,46,Male,UK,Bachelor's,Marketing Coordinator,22,Media,False,,4,5,0.7,Medium,"Data Visualization, Python",2023-05-16
+USR-0560,59,Female,Brazil,Bachelor's,Teacher,40,Education,False,,4,2,0.7,Medium,"Prompt Engineering, NLP",2023-09-27
+USR-0561,42,Non-Binary,Australia,High School,Software Engineer,24,Education,False,,3,2,0.7,Low,"Python, Data Analysis, AI Ethics",2023-11-16
+USR-0562,35,Female,USA,Bachelor's,Retail Manager,13,Manufacturing,False,,5,4,0.7,High,"Python, Data Analysis, AI Ethics",2023-05-31
+USR-0563,27,Male,UK,Bachelor's,Content Creator,4,Retail,False,,5,1,0.7,Low,"Prompt Engineering, NLP",2024-04-20
+USR-0564,58,Male,USA,Bachelor's,AI Specialist,37,Tech,True,"Computer Vision, Deep Learning, AI Ethics",4,2,0.31,Low,,2024-01-11
+USR-0565,32,Female,India,Master's,Data Analyst,12,Consulting,True,Data Science,5,1,0.3,Low,,2024-05-12
+USR-0566,26,Female,USA,High School,Marketing Coordinator,2,Consulting,False,,4,0,0.7,Medium,"Python, Data Analysis, AI Ethics",2024-01-08
+USR-0567,48,Female,Germany,Master's,Data Analyst,29,Retail,False,,4,4,0.7,Medium,"Machine Learning, Deep Learning",2024-04-01
+USR-0568,49,Female,USA,Bachelor's,Nurse,30,Finance,False,,3,2,0.7,High,"Data Visualization, Python",2023-06-12
+USR-0569,35,Male,Brazil,Bachelor's,Teacher,17,Finance,False,,5,5,0.7,Low,"Python, Data Analysis, AI Ethics",2024-07-16
+USR-0570,32,Male,USA,Bachelor's,Retail Manager,9,Media,False,,5,5,0.7,High,"Data Visualization, Python",2023-07-25
+USR-0571,23,Non-Binary,USA,Master's,Retail Manager,0,Finance,False,,5,3,0.7,High,"Data Visualization, Python",2024-01-07
+USR-0572,36,Female,UK,High School,Teacher,13,Tech,True,"Computer Vision, Data Science",4,4,0.29,Medium,,2024-02-02
+USR-0573,37,Female,UK,Master's,Retail Manager,16,Tech,True,"Machine Learning, Computer Vision, Data Science",5,5,0.25,High,,2023-10-20
+USR-0574,25,Male,USA,Bachelor's,Software Engineer,4,Media,False,,4,0,0.7,Low,"Prompt Engineering, NLP",2023-11-28
+USR-0575,56,Male,USA,Master's,Marketing Coordinator,36,Consulting,False,,3,1,0.7,Low,"Prompt Engineering, NLP",2023-02-20
+USR-0576,30,Male,Australia,Master's,Financial Advisor,7,Consulting,False,,5,4,0.7,Medium,"Machine Learning, Deep Learning",2023-05-19
+USR-0577,32,Female,India,Master's,Software Engineer,8,Consulting,False,,5,1,0.7,Low,"Python, Data Analysis, AI Ethics",2023-12-05
+USR-0578,26,Male,Australia,Bachelor's,Nurse,7,Education,False,,5,4,0.7,Medium,"Machine Learning, Deep Learning",2023-05-01
+USR-0579,30,Female,Germany,High School,AI Specialist,8,Education,True,"Data Science, Prompt Engineering, Machine Learning",4,1,0.36,Low,,2024-04-18
+USR-0580,60,Female,UK,Master's,Retail Manager,40,Retail,False,,3,1,0.7,High,"Python, Data Analysis, AI Ethics",2024-02-12
+USR-0581,44,Female,Germany,Bachelor's,Admin Assistant,20,Tech,True,"Data Science, Machine Learning, AI Ethics",4,0,0.21,High,,2024-04-26
+USR-0582,34,Male,USA,Master's,Data Analyst,14,Consulting,True,"Deep Learning, AI Ethics, Machine Learning",3,1,0.27,High,,2023-08-12
+USR-0583,25,Male,USA,Bachelor's,Teacher,6,Retail,False,,5,3,0.7,High,"Python, Data Analysis, AI Ethics",2023-08-26
+USR-0584,29,Female,Canada,Master's,AI Specialist,11,Consulting,True,"Prompt Engineering, Deep Learning",4,2,0.34,Low,,2024-07-17
+USR-0585,37,Female,Germany,High School,Retail Manager,19,Healthcare,False,,4,2,0.7,High,"Machine Learning, Deep Learning",2023-09-14
+USR-0586,45,Male,India,High School,Admin Assistant,27,Consulting,False,,4,5,0.7,High,"Python, Data Analysis, AI Ethics",2023-04-20
+USR-0587,49,Male,France,Master's,Content Creator,28,Consulting,False,,4,2,0.7,Low,"Machine Learning, Deep Learning",2024-06-09
+USR-0588,47,Female,Brazil,Master's,Content Creator,29,Manufacturing,False,,3,0,0.7,Low,"Prompt Engineering, NLP",2024-03-30
+USR-0589,33,Non-Binary,Canada,Master's,Software Engineer,11,Education,False,,5,1,0.7,Low,"Data Visualization, Python",2023-12-08
+USR-0590,29,Female,India,High School,Teacher,6,Education,False,,4,0,0.7,High,AI for Business,2023-09-28
+USR-0591,26,Male,India,High School,Admin Assistant,8,Manufacturing,False,,3,0,0.7,High,"Prompt Engineering, NLP",2023-12-12
+USR-0592,33,Female,USA,Bachelor's,Admin Assistant,10,Media,False,,5,2,0.7,High,"Prompt Engineering, NLP",2023-06-30
+USR-0593,32,Female,USA,High School,Retail Manager,9,Consulting,False,,4,4,0.7,High,"Python, Data Analysis, AI Ethics",2023-08-30
+USR-0594,45,Female,Germany,PhD,Admin Assistant,26,Retail,False,,3,1,0.7,High,"Data Visualization, Python",2024-03-26
+USR-0595,22,Male,Canada,Master's,Software Engineer,0,Education,False,,5,0,0.7,Low,"Data Visualization, Python",2023-01-29
+USR-0596,34,Male,Germany,High School,Admin Assistant,10,Media,False,,3,0,0.7,High,"Machine Learning, Deep Learning",2024-04-19
+USR-0597,28,Male,India,Master's,Marketing Coordinator,5,Tech,False,,4,1,0.7,Low,"Machine Learning, Deep Learning",2023-08-29
+USR-0598,48,Female,USA,High School,Software Engineer,25,Retail,False,,3,0,0.7,Low,"Prompt Engineering, NLP",2023-06-27
+USR-0599,32,Male,Australia,Bachelor's,Teacher,12,Healthcare,False,,4,3,0.7,Medium,"Python, Data Analysis, AI Ethics",2023-02-26
+USR-0600,44,Male,Canada,Bachelor's,Nurse,23,Retail,False,,3,0,0.7,Medium,AI for Business,2023-12-11
+USR-0601,58,Female,USA,Other,Admin Assistant,36,Consulting,False,,3,2,0.7,High,"Prompt Engineering, NLP",2024-04-09
+USR-0602,25,Male,Australia,Other,Admin Assistant,1,Tech,True,Machine Learning,4,0,0.28,High,,2023-11-27
+USR-0603,50,Female,USA,Bachelor's,Software Engineer,28,Media,False,,4,3,0.7,Low,"Prompt Engineering, NLP",2023-12-25
+USR-0604,33,Male,India,Bachelor's,Content Creator,11,Retail,False,,4,1,0.7,Low,"Prompt Engineering, NLP",2024-05-15
+USR-0605,38,Male,USA,Master's,Operations Manager,17,Tech,True,"Prompt Engineering, Machine Learning",4,5,0.15,High,,2024-03-15
+USR-0606,33,Female,USA,Bachelor's,Operations Manager,13,Education,True,"Natural Language Processing, Computer Vision, Prompt Engineering",4,5,0.29,Low,,2023-03-06
+USR-0607,40,Male,USA,High School,Content Creator,20,Finance,False,,2,0,0.7,Low,"Python, Data Analysis, AI Ethics",2023-05-29
+USR-0608,31,Male,France,Bachelor's,Software Engineer,8,Consulting,False,,4,5,0.7,Low,"Machine Learning, Deep Learning",2023-02-16
+USR-0609,47,Male,Australia,Master's,AI Specialist,23,Media,False,,3,1,0.7,Low,"Data Visualization, Python",2024-01-09
+USR-0610,59,Male,USA,Master's,Marketing Coordinator,38,Consulting,False,,4,4,0.7,Medium,"Prompt Engineering, NLP",2023-05-20
+USR-0611,59,Non-Binary,USA,Master's,Nurse,37,Tech,True,"Deep Learning, Computer Vision, Data Science",4,5,0.28,Medium,,2024-05-16
+USR-0612,55,Female,Canada,Other,Marketing Coordinator,35,Healthcare,False,,3,1,0.7,High,AI for Business,2024-05-24
+USR-0613,36,Female,India,Bachelor's,Retail Manager,17,Consulting,False,,5,3,0.7,High,AI for Business,2024-06-02
+USR-0614,37,Non-Binary,Canada,PhD,Marketing Coordinator,14,Healthcare,False,,5,3,0.7,Medium,"Data Visualization, Python",2023-04-30
+USR-0615,47,Male,UK,Master's,Retail Manager,27,Finance,False,,4,1,0.7,High,"Machine Learning, Deep Learning",2023-11-06
+USR-0616,59,Male,USA,Bachelor's,Financial Advisor,38,Finance,False,,3,0,0.7,Medium,"Machine Learning, Deep Learning",2024-06-29
+USR-0617,43,Male,France,Bachelor's,AI Specialist,19,Consulting,False,,4,2,0.7,Low,"Python, Data Analysis, AI Ethics",2023-05-26
+USR-0618,34,Prefer Not to Say,Australia,Master's,Retail Manager,11,Finance,False,,5,0,0.7,High,"Prompt Engineering, NLP",2023-08-31
+USR-0619,32,Male,USA,Master's,AI Specialist,13,Retail,False,,4,2,0.7,Low,"Machine Learning, Deep Learning",2023-01-17
+USR-0620,50,Female,Canada,Master's,Retail Manager,26,Finance,True,"Natural Language Processing, Machine Learning, Data Science",3,0,0.32,High,,2023-11-09
+USR-0621,48,Male,India,Bachelor's,AI Specialist,30,Tech,False,,2,1,0.7,Low,"Data Visualization, Python",2024-07-30
+USR-0622,53,Female,France,Master's,Data Analyst,30,Healthcare,False,,4,1,0.7,Medium,AI for Business,2023-04-29
+USR-0623,43,Female,France,Master's,Marketing Coordinator,23,Media,False,,4,3,0.7,Medium,AI for Business,2024-07-19
+USR-0624,36,Male,Germany,Bachelor's,Retail Manager,13,Retail,False,,3,2,0.7,High,"Prompt Engineering, NLP",2023-07-23
+USR-0625,31,Male,USA,Bachelor's,Admin Assistant,8,Finance,False,,5,1,0.7,High,"Data Visualization, Python",2024-06-08
+USR-0626,30,Male,Canada,Bachelor's,Content Creator,10,Finance,True,"Deep Learning, AI Ethics, Data Science",4,1,0.16,Low,,2023-10-01
+USR-0627,36,Male,USA,Bachelor's,Nurse,18,Healthcare,False,,5,5,0.7,High,"Python, Data Analysis, AI Ethics",2023-09-29
+USR-0628,45,Female,Canada,Other,AI Specialist,25,Tech,True,"Data Science, Deep Learning",4,5,0.25,Low,,2024-03-13
+USR-0629,40,Male,Germany,PhD,Admin Assistant,17,Media,False,,4,4,0.7,High,AI for Business,2023-12-25
+USR-0630,59,Female,Brazil,Bachelor's,Content Creator,36,Tech,False,,3,0,0.7,Low,"Python, Data Analysis, AI Ethics",2024-02-21
+USR-0631,57,Female,Australia,Bachelor's,Data Analyst,36,Finance,False,,4,4,0.7,High,AI for Business,2024-04-01
+USR-0632,58,Male,USA,High School,AI Specialist,39,Education,False,,4,5,0.7,Low,AI for Business,2024-03-05
+USR-0633,52,Non-Binary,UK,Master's,Content Creator,28,Retail,False,,4,0,0.7,Low,"Machine Learning, Deep Learning",2024-07-27
+USR-0634,56,Female,Canada,Master's,Retail Manager,37,Education,False,,3,1,0.7,High,AI for Business,2023-05-10
+USR-0635,30,Female,USA,High School,Content Creator,8,Tech,True,"Computer Vision, Prompt Engineering",4,1,0.32,Low,,2024-05-27
+USR-0636,50,Non-Binary,Germany,High School,Nurse,32,Media,False,,4,4,0.7,Low,"Prompt Engineering, NLP",2023-04-03
+USR-0637,34,Female,France,Master's,Content Creator,10,Retail,False,,4,3,0.7,Low,AI for Business,2023-08-24
+USR-0638,44,Female,France,Bachelor's,Software Engineer,21,Education,True,Natural Language Processing,2,2,0.32,Low,,2024-06-20
+USR-0639,40,Female,Australia,Bachelor's,Content Creator,20,Retail,False,,2,2,0.7,Low,"Python, Data Analysis, AI Ethics",2024-05-08
+USR-0640,27,Male,Canada,Master's,Operations Manager,5,Finance,True,"AI Ethics, Computer Vision, Machine Learning",4,1,0.24,Low,,2023-03-25
+USR-0641,55,Female,Germany,Bachelor's,Marketing Coordinator,31,Media,False,,4,4,0.7,Low,"Prompt Engineering, NLP",2023-06-22
+USR-0642,32,Female,Germany,Bachelor's,Nurse,8,Media,False,,5,0,0.7,Medium,"Machine Learning, Deep Learning",2023-05-09
+USR-0643,55,Male,USA,Master's,Financial Advisor,36,Education,True,"Computer Vision, Machine Learning, Data Science",3,2,0.41,Medium,,2023-09-12
+USR-0644,30,Female,UK,High School,Marketing Coordinator,12,Manufacturing,False,,5,1,0.7,Low,"Machine Learning, Deep Learning",2023-02-28
+USR-0645,25,Male,Germany,Bachelor's,Financial Advisor,4,Tech,False,,5,4,0.7,Medium,"Prompt Engineering, NLP",2023-09-19
+USR-0646,41,Female,USA,High School,Financial Advisor,22,Education,False,,2,2,0.7,Low,"Data Visualization, Python",2023-06-14
+USR-0647,32,Male,Germany,Master's,Nurse,14,Media,False,,4,1,0.7,Medium,"Data Visualization, Python",2023-06-11
+USR-0648,38,Male,France,Other,Operations Manager,17,Manufacturing,False,,5,5,0.7,High,AI for Business,2023-02-10
+USR-0649,53,Male,India,Bachelor's,Data Analyst,31,Media,False,,3,0,0.7,Medium,AI for Business,2023-09-24
+USR-0650,58,Male,France,Bachelor's,Data Analyst,37,Healthcare,False,,4,3,0.7,Medium,AI for Business,2024-03-09
+USR-0651,24,Male,USA,Master's,Content Creator,2,Retail,True,"Computer Vision, Natural Language Processing",4,5,0.3,Low,,2024-07-28
+USR-0652,30,Male,Brazil,Master's,Admin Assistant,8,Healthcare,True,"Machine Learning, AI Ethics, Natural Language Processing",3,0,0.33,High,,2023-02-18
+USR-0653,56,Female,Brazil,Bachelor's,Retail Manager,37,Finance,False,,2,2,0.7,High,AI for Business,2023-06-11
+USR-0654,55,Male,India,Bachelor's,Financial Advisor,31,Tech,False,,4,0,0.7,Low,"Prompt Engineering, NLP",2024-06-05
+USR-0655,25,Male,Germany,Bachelor's,Marketing Coordinator,2,Media,False,,5,1,0.7,Low,"Python, Data Analysis, AI Ethics",2023-01-18
+USR-0656,35,Female,India,Bachelor's,Marketing Coordinator,16,Finance,False,,3,0,0.7,Medium,"Data Visualization, Python",2023-10-31
+USR-0657,58,Male,India,Other,Operations Manager,38,Healthcare,True,"Data Science, Machine Learning",3,0,0.5,Medium,,2023-09-12
+USR-0658,53,Male,USA,Bachelor's,Content Creator,32,Consulting,False,,3,1,0.7,Low,"Machine Learning, Deep Learning",2023-01-04
+USR-0659,22,Female,India,PhD,Operations Manager,0,Tech,False,,5,5,0.7,Low,"Prompt Engineering, NLP",2024-07-06
+USR-0660,50,Female,Brazil,Master's,AI Specialist,31,Healthcare,False,,4,1,0.7,Low,AI for Business,2023-10-16
+USR-0661,58,Male,India,Bachelor's,Teacher,38,Finance,False,,2,0,0.7,Medium,"Data Visualization, Python",2024-02-11
+USR-0662,29,Male,Canada,Bachelor's,Content Creator,5,Healthcare,False,,4,4,0.7,Low,"Data Visualization, Python",2023-04-26
+USR-0663,36,Male,Brazil,High School,Data Analyst,13,Healthcare,True,"Deep Learning, Prompt Engineering, AI Ethics",4,4,0.45,Low,,2023-01-27
+USR-0664,23,Female,UK,High School,Retail Manager,4,Finance,False,,4,0,0.7,High,AI for Business,2023-10-15
+USR-0665,50,Male,USA,Bachelor's,Nurse,32,Finance,False,,3,2,0.7,Low,"Machine Learning, Deep Learning",2023-02-06
+USR-0666,45,Male,UK,PhD,Marketing Coordinator,22,Education,False,,4,1,0.7,High,AI for Business,2023-04-18
+USR-0667,29,Female,India,High School,AI Specialist,11,Healthcare,False,,4,2,0.7,Low,"Python, Data Analysis, AI Ethics",2023-01-07
+USR-0668,39,Female,India,High School,Marketing Coordinator,19,Education,False,,5,5,0.7,Medium,AI for Business,2023-06-29
+USR-0669,22,Female,Australia,Bachelor's,Nurse,0,Education,False,,4,5,0.7,High,"Prompt Engineering, NLP",2023-08-24
+USR-0670,24,Male,France,Master's,Operations Manager,0,Tech,True,"AI Ethics, Natural Language Processing",5,0,0.2,Medium,,2023-12-19
+USR-0671,50,Male,Canada,Other,Data Analyst,30,Education,False,,3,2,0.7,Medium,"Data Visualization, Python",2023-04-26
+USR-0672,42,Female,Brazil,Bachelor's,Content Creator,23,Finance,False,,3,2,0.7,Low,"Data Visualization, Python",2023-11-08
+USR-0673,32,Female,France,Bachelor's,Teacher,9,Healthcare,False,,4,2,0.7,Medium,AI for Business,2023-05-17
+USR-0674,28,Female,Australia,Bachelor's,Content Creator,4,Consulting,True,"Prompt Engineering, Data Science, Machine Learning",5,1,0.32,Low,,2024-02-24
+USR-0675,30,Female,India,Bachelor's,Teacher,9,Retail,False,,4,3,0.7,Medium,"Machine Learning, Deep Learning",2023-11-03
+USR-0676,51,Male,India,Bachelor's,Marketing Coordinator,29,Media,False,,2,1,0.7,Medium,"Machine Learning, Deep Learning",2023-02-15
+USR-0677,24,Female,India,Bachelor's,Nurse,3,Finance,False,,4,2,0.7,High,AI for Business,2024-05-24
+USR-0678,39,Male,Brazil,Bachelor's,Admin Assistant,15,Education,False,,5,3,0.7,High,"Prompt Engineering, NLP",2023-04-11
+USR-0679,55,Female,Brazil,Master's,Admin Assistant,32,Consulting,False,,2,2,0.7,High,"Prompt Engineering, NLP",2023-08-30
+USR-0680,60,Male,USA,Bachelor's,Content Creator,40,Media,False,,4,1,0.7,Low,"Machine Learning, Deep Learning",2023-11-06
+USR-0681,36,Non-Binary,UK,Master's,Marketing Coordinator,17,Media,True,"Data Science, AI Ethics, Machine Learning",4,4,0.34,High,,2023-09-27
+USR-0682,48,Female,USA,Bachelor's,Teacher,26,Retail,False,,3,1,0.7,Medium,AI for Business,2024-07-01
+USR-0683,56,Female,USA,Bachelor's,Content Creator,37,Tech,True,"Prompt Engineering, AI Ethics, Machine Learning",4,2,0.25,Low,,2023-06-16
+USR-0684,24,Male,UK,Bachelor's,Marketing Coordinator,0,Tech,False,,4,0,0.7,Medium,"Data Visualization, Python",2023-11-04
+USR-0685,56,Female,UK,High School,Financial Advisor,38,Consulting,False,,3,1,0.7,Medium,"Python, Data Analysis, AI Ethics",2023-06-28
+USR-0686,35,Male,Australia,Bachelor's,Content Creator,16,Retail,True,"Computer Vision, Natural Language Processing, Prompt Engineering",5,5,0.31,Low,,2024-04-27
+USR-0687,52,Male,Brazil,Bachelor's,Operations Manager,34,Healthcare,False,,2,0,0.7,Medium,"Prompt Engineering, NLP",2024-02-19
+USR-0688,44,Male,India,Bachelor's,Retail Manager,22,Manufacturing,False,,3,2,0.7,High,"Prompt Engineering, NLP",2023-05-29
+USR-0689,45,Female,India,Bachelor's,Nurse,25,Healthcare,False,,3,1,0.7,Medium,"Python, Data Analysis, AI Ethics",2024-04-02
+USR-0690,50,Male,Germany,Bachelor's,Financial Advisor,29,Education,False,,2,0,0.7,High,"Data Visualization, Python",2023-11-16
+USR-0691,48,Female,India,Master's,Retail Manager,30,Consulting,True,"Deep Learning, Natural Language Processing, Computer Vision",2,1,0.39,High,,2023-02-21
+USR-0692,57,Female,India,Master's,AI Specialist,33,Healthcare,True,"Deep Learning, Computer Vision",4,5,0.37,Low,,2023-05-28
+USR-0693,47,Female,Canada,High School,Nurse,29,Finance,False,,3,1,0.7,High,"Data Visualization, Python",2023-03-24
+USR-0694,60,Male,USA,Bachelor's,Teacher,39,Tech,False,,3,0,0.7,Medium,AI for Business,2023-09-18
+USR-0695,35,Female,Brazil,Master's,AI Specialist,14,Consulting,False,,5,2,0.7,Low,"Data Visualization, Python",2024-03-31
+USR-0696,37,Male,Germany,Master's,Financial Advisor,18,Manufacturing,True,Prompt Engineering,4,2,0.3,Medium,,2024-03-26
+USR-0697,56,Female,Canada,Bachelor's,Retail Manager,33,Education,False,,3,0,0.7,High,"Machine Learning, Deep Learning",2024-07-25
+USR-0698,46,Female,Germany,Bachelor's,Admin Assistant,28,Tech,True,Computer Vision,4,3,0.32,High,,2024-07-05
+USR-0699,36,Non-Binary,Canada,High School,AI Specialist,15,Media,False,,5,2,0.7,Low,"Python, Data Analysis, AI Ethics",2024-01-06
+USR-0700,29,Male,UK,Master's,Software Engineer,9,Retail,False,,5,4,0.7,Low,AI for Business,2023-09-09
+USR-0701,48,Female,India,Master's,Content Creator,24,Consulting,False,,3,2,0.7,Low,"Python, Data Analysis, AI Ethics",2023-07-11
+USR-0702,52,Female,India,Master's,Data Analyst,32,Retail,False,,3,2,0.7,Medium,"Python, Data Analysis, AI Ethics",2024-07-03
+USR-0703,22,Female,Germany,Bachelor's,Operations Manager,3,Manufacturing,False,,5,0,0.7,Medium,"Machine Learning, Deep Learning",2024-07-27
+USR-0704,31,Female,UK,Bachelor's,Operations Manager,10,Retail,False,,4,2,0.7,Medium,"Python, Data Analysis, AI Ethics",2023-09-16
+USR-0705,49,Female,India,Bachelor's,Data Analyst,26,Media,False,,2,0,0.7,High,"Prompt Engineering, NLP",2023-02-21
+USR-0706,58,Female,France,PhD,Teacher,40,Consulting,True,"Machine Learning, Natural Language Processing",4,2,0.43,Medium,,2024-02-07
+USR-0707,37,Non-Binary,India,Bachelor's,Nurse,18,Tech,False,,5,2,0.7,Low,"Python, Data Analysis, AI Ethics",2023-11-08
+USR-0708,53,Female,Brazil,Bachelor's,Retail Manager,31,Media,False,,3,2,0.7,High,"Data Visualization, Python",2023-01-18
+USR-0709,32,Male,USA,High School,Content Creator,10,Healthcare,False,,4,3,0.7,Low,"Python, Data Analysis, AI Ethics",2024-05-31
+USR-0710,43,Female,USA,Bachelor's,Teacher,19,Finance,False,,3,1,0.7,High,"Prompt Engineering, NLP",2024-06-26
+USR-0711,49,Male,France,Bachelor's,Software Engineer,26,Media,False,,4,1,0.7,Low,"Prompt Engineering, NLP",2023-10-28
+USR-0712,51,Male,USA,Bachelor's,Nurse,32,Retail,False,,4,0,0.7,Low,"Machine Learning, Deep Learning",2023-10-03
+USR-0713,51,Male,UK,Bachelor's,Teacher,32,Media,False,,3,2,0.7,Medium,"Python, Data Analysis, AI Ethics",2023-05-19
+USR-0714,26,Male,India,Bachelor's,Retail Manager,3,Consulting,False,,4,0,0.7,High,"Data Visualization, Python",2023-04-28
+USR-0715,49,Male,Germany,High School,Operations Manager,27,Healthcare,False,,3,1,0.7,Low,"Python, Data Analysis, AI Ethics",2024-02-06
+USR-0716,37,Prefer Not to Say,France,Bachelor's,Software Engineer,18,Finance,False,,4,0,0.7,Low,"Data Visualization, Python",2024-02-23
+USR-0717,48,Female,USA,Bachelor's,Operations Manager,28,Consulting,False,,4,4,0.7,Low,"Python, Data Analysis, AI Ethics",2023-01-02
+USR-0718,46,Male,Brazil,Bachelor's,Admin Assistant,22,Education,False,,2,1,0.7,High,"Python, Data Analysis, AI Ethics",2024-04-09
+USR-0719,27,Male,Canada,Bachelor's,AI Specialist,4,Finance,False,,5,1,0.7,Low,"Machine Learning, Deep Learning",2024-06-17
+USR-0720,52,Male,USA,Bachelor's,Content Creator,29,Consulting,False,,3,0,0.7,Low,"Machine Learning, Deep Learning",2023-11-06
+USR-0721,53,Male,India,Bachelor's,AI Specialist,30,Media,False,,4,5,0.7,Low,"Prompt Engineering, NLP",2024-01-24
+USR-0722,41,Female,Germany,Bachelor's,Data Analyst,17,Media,True,"AI Ethics, Data Science",2,1,0.27,Medium,,2023-05-29
+USR-0723,33,Male,India,Bachelor's,Data Analyst,13,Retail,True,Data Science,5,1,0.3,Medium,,2024-01-06
+USR-0724,55,Female,Germany,High School,Data Analyst,31,Tech,False,,3,2,0.7,High,"Python, Data Analysis, AI Ethics",2024-02-03
+USR-0725,49,Male,Brazil,Bachelor's,Retail Manager,26,Tech,False,,2,1,0.7,High,AI for Business,2023-06-30
+USR-0726,41,Male,India,High School,AI Specialist,18,Finance,False,,4,0,0.7,Low,"Data Visualization, Python",2024-07-05
+USR-0727,33,Male,India,Master's,Operations Manager,14,Media,False,,5,1,0.7,Medium,"Prompt Engineering, NLP",2023-03-26
+USR-0728,30,Female,Brazil,High School,Operations Manager,7,Tech,False,,5,0,0.7,Medium,"Machine Learning, Deep Learning",2023-07-16
+USR-0729,36,Male,Canada,Bachelor's,Retail Manager,17,Finance,False,,5,5,0.7,High,"Data Visualization, Python",2023-09-26
+USR-0730,25,Male,India,PhD,Data Analyst,1,Retail,False,,5,5,0.7,Medium,"Prompt Engineering, NLP",2023-03-01
+USR-0731,60,Female,India,Bachelor's,Admin Assistant,41,Finance,False,,4,4,0.7,High,"Machine Learning, Deep Learning",2023-12-16
+USR-0732,56,Male,India,High School,AI Specialist,38,Retail,False,,3,2,0.7,Low,AI for Business,2023-12-16
+USR-0733,27,Female,UK,Master's,Marketing Coordinator,5,Media,False,,4,1,0.7,Medium,"Python, Data Analysis, AI Ethics",2023-11-03
+USR-0734,37,Female,Brazil,High School,Teacher,13,Education,False,,5,2,0.7,Medium,"Prompt Engineering, NLP",2023-08-23
+USR-0735,45,Male,Australia,High School,Teacher,26,Consulting,False,,3,1,0.7,Low,"Prompt Engineering, NLP",2023-06-23
+USR-0736,51,Male,France,High School,Marketing Coordinator,29,Manufacturing,True,Deep Learning,3,0,0.49,Low,,2023-10-19
+USR-0737,26,Male,India,Bachelor's,Software Engineer,4,Education,False,,4,1,0.7,Low,"Python, Data Analysis, AI Ethics",2023-04-22
+USR-0738,27,Female,USA,High School,Teacher,6,Consulting,False,,5,3,0.7,Medium,"Python, Data Analysis, AI Ethics",2023-07-03
+USR-0739,34,Male,India,Bachelor's,AI Specialist,15,Retail,True,"Computer Vision, Natural Language Processing",4,3,0.34,Low,,2023-11-29
+USR-0740,47,Female,Australia,Master's,Financial Advisor,23,Tech,True,Machine Learning,3,2,0.25,Medium,,2023-02-13
+USR-0741,41,Female,USA,Bachelor's,Data Analyst,23,Healthcare,False,,3,1,0.7,High,"Prompt Engineering, NLP",2024-04-05
+USR-0742,30,Male,France,Bachelor's,Teacher,12,Media,False,,4,0,0.7,Medium,"Data Visualization, Python",2023-08-05
+USR-0743,27,Female,UK,Master's,Marketing Coordinator,3,Tech,False,,4,4,0.7,Medium,"Python, Data Analysis, AI Ethics",2024-07-04
+USR-0744,29,Female,Australia,Other,Content Creator,5,Tech,False,,4,0,0.7,Low,"Data Visualization, Python",2024-06-20
+USR-0745,31,Female,Brazil,Bachelor's,Retail Manager,9,Healthcare,False,,5,0,0.7,High,AI for Business,2023-04-12
+USR-0746,54,Female,Canada,Bachelor's,Teacher,30,Media,False,,4,2,0.7,Low,"Prompt Engineering, NLP",2024-03-15
+USR-0747,36,Female,Brazil,Bachelor's,Operations Manager,13,Consulting,False,,5,5,0.7,High,"Prompt Engineering, NLP",2024-06-15
+USR-0748,45,Female,France,Bachelor's,Financial Advisor,25,Retail,False,,2,2,0.7,Medium,AI for Business,2024-02-23
+USR-0749,38,Female,UK,High School,Content Creator,17,Finance,False,,4,4,0.7,Low,AI for Business,2023-04-26
+USR-0750,26,Male,Germany,Bachelor's,Content Creator,4,Finance,False,,5,0,0.7,Low,"Prompt Engineering, NLP",2023-08-02
+USR-0751,60,Male,France,PhD,Content Creator,39,Consulting,False,,2,0,0.7,Low,"Prompt Engineering, NLP",2023-05-07
+USR-0752,24,Female,France,Bachelor's,Marketing Coordinator,1,Healthcare,False,,5,5,0.7,High,"Prompt Engineering, NLP",2024-02-17
+USR-0753,49,Female,India,Master's,Marketing Coordinator,30,Healthcare,False,,3,1,0.7,Medium,"Python, Data Analysis, AI Ethics",2023-02-07
+USR-0754,53,Male,USA,Bachelor's,Nurse,32,Manufacturing,False,,3,0,0.7,Low,AI for Business,2024-03-17
+USR-0755,32,Male,UK,Bachelor's,Content Creator,11,Healthcare,False,,5,3,0.7,Low,"Machine Learning, Deep Learning",2023-06-12
+USR-0756,50,Female,UK,Bachelor's,Nurse,31,Healthcare,False,,3,2,0.7,Medium,"Data Visualization, Python",2024-06-10
+USR-0757,36,Male,France,Bachelor's,Teacher,17,Tech,True,Deep Learning,3,1,0.17,Medium,,2023-02-17
+USR-0758,35,Female,Germany,High School,Operations Manager,13,Consulting,False,,5,1,0.7,Medium,"Python, Data Analysis, AI Ethics",2023-09-19
+USR-0759,30,Female,France,Bachelor's,Admin Assistant,12,Media,True,Machine Learning,4,5,0.28,High,,2023-02-27
+USR-0760,29,Non-Binary,UK,Other,Retail Manager,10,Finance,False,,5,5,0.7,High,AI for Business,2023-01-22
+USR-0761,49,Prefer Not to Say,Australia,Master's,Data Analyst,28,Education,False,,4,4,0.7,High,"Prompt Engineering, NLP",2023-07-28
+USR-0762,40,Male,USA,Bachelor's,Admin Assistant,22,Media,False,,4,3,0.7,High,"Prompt Engineering, NLP",2023-05-21
+USR-0763,40,Male,France,High School,AI Specialist,22,Consulting,False,,3,2,0.7,Low,AI for Business,2024-04-16
+USR-0764,37,Female,Brazil,PhD,Nurse,16,Finance,False,,4,4,0.7,Medium,"Data Visualization, Python",2023-07-11
+USR-0765,32,Male,Brazil,PhD,Nurse,8,Media,False,,5,0,0.7,Low,"Python, Data Analysis, AI Ethics",2024-06-29
+USR-0766,25,Female,UK,Master's,Data Analyst,4,Retail,True,Computer Vision,5,2,0.26,Low,,2023-10-16
+USR-0767,31,Female,UK,Bachelor's,Data Analyst,11,Education,False,,4,3,0.7,Medium,"Python, Data Analysis, AI Ethics",2023-04-09
+USR-0768,29,Male,Brazil,Bachelor's,Software Engineer,11,Manufacturing,False,,4,4,0.7,Low,"Prompt Engineering, NLP",2023-07-15
+USR-0769,49,Female,Germany,Bachelor's,Nurse,28,Media,False,,3,2,0.7,Medium,"Data Visualization, Python",2023-09-12
+USR-0770,44,Female,Germany,Bachelor's,Operations Manager,23,Healthcare,False,,4,5,0.7,Low,"Machine Learning, Deep Learning",2023-05-08
+USR-0771,56,Male,India,Master's,AI Specialist,38,Education,True,"AI Ethics, Natural Language Processing, Data Science",4,0,0.35,Low,,2023-07-24
+USR-0772,30,Male,France,High School,Operations Manager,7,Manufacturing,False,,5,0,0.7,High,"Python, Data Analysis, AI Ethics",2023-09-09
+USR-0773,28,Female,India,Master's,Teacher,10,Healthcare,False,,3,0,0.7,High,"Python, Data Analysis, AI Ethics",2024-03-17
+USR-0774,28,Female,USA,Other,Operations Manager,4,Media,False,,3,0,0.7,Low,"Data Visualization, Python",2024-05-24
+USR-0775,56,Female,France,Bachelor's,Content Creator,37,Consulting,False,,3,1,0.7,Low,"Prompt Engineering, NLP",2023-12-27
+USR-0776,30,Female,USA,PhD,Financial Advisor,6,Healthcare,True,"Deep Learning, Computer Vision",5,0,0.3,Low,,2024-05-16
+USR-0777,30,Male,Germany,Master's,Data Analyst,6,Media,False,,4,2,0.7,Medium,"Python, Data Analysis, AI Ethics",2024-07-29
+USR-0778,34,Female,USA,Bachelor's,Marketing Coordinator,16,Tech,True,"Deep Learning, Computer Vision, Machine Learning",5,0,0.15,High,,2023-08-10
+USR-0779,22,Male,UK,Other,Content Creator,2,Tech,False,,5,2,0.7,Low,"Machine Learning, Deep Learning",2023-08-13
+USR-0780,51,Female,India,Bachelor's,Marketing Coordinator,32,Manufacturing,False,,4,4,0.7,Low,AI for Business,2023-07-10
+USR-0781,53,Male,Australia,Master's,Data Analyst,35,Retail,True,"Natural Language Processing, Machine Learning",2,0,0.43,Low,,2023-06-12
+USR-0782,55,Male,USA,Bachelor's,Marketing Coordinator,33,Media,False,,3,2,0.7,Medium,"Machine Learning, Deep Learning",2023-10-03
+USR-0783,44,Male,Australia,Bachelor's,Marketing Coordinator,25,Retail,False,,4,2,0.7,Medium,AI for Business,2024-05-11
+USR-0784,33,Female,Canada,Bachelor's,Teacher,9,Manufacturing,True,"Data Science, Computer Vision, Prompt Engineering",5,0,0.34,High,,2023-03-02
+USR-0785,54,Male,Germany,Bachelor's,Admin Assistant,36,Education,False,,2,0,0.7,High,"Python, Data Analysis, AI Ethics",2024-05-12
+USR-0786,38,Male,Germany,Bachelor's,AI Specialist,15,Tech,True,"Computer Vision, Deep Learning, AI Ethics",5,3,0.15,Low,,2024-06-05
+USR-0787,29,Female,India,Bachelor's,Teacher,9,Tech,False,,4,3,0.7,Medium,"Prompt Engineering, NLP",2023-03-12
+USR-0788,34,Male,Brazil,Bachelor's,Nurse,11,Healthcare,False,,4,5,0.7,Medium,"Machine Learning, Deep Learning",2024-07-04
+USR-0789,45,Male,France,Master's,Teacher,24,Finance,True,"Prompt Engineering, Natural Language Processing, Deep Learning",2,2,0.18,Low,,2024-06-24
+USR-0790,48,Male,France,Master's,Software Engineer,25,Healthcare,False,,4,4,0.7,Low,"Data Visualization, Python",2023-09-03
+USR-0791,41,Female,Brazil,Bachelor's,Software Engineer,20,Manufacturing,False,,4,4,0.7,Low,"Machine Learning, Deep Learning",2023-11-14
+USR-0792,31,Male,UK,Master's,Content Creator,7,Education,True,"Machine Learning, Deep Learning, Prompt Engineering",4,4,0.28,Low,,2023-02-16
+USR-0793,51,Female,Brazil,Bachelor's,Financial Advisor,31,Finance,False,,3,1,0.7,Medium,"Data Visualization, Python",2024-07-21
+USR-0794,55,Non-Binary,France,Master's,Data Analyst,33,Finance,False,,4,4,0.7,Medium,"Prompt Engineering, NLP",2023-09-14
+USR-0795,45,Male,UK,Other,Retail Manager,21,Education,False,,4,0,0.7,High,"Python, Data Analysis, AI Ethics",2024-06-13
+USR-0796,51,Male,Canada,Master's,Data Analyst,29,Media,False,,2,0,0.7,Medium,"Python, Data Analysis, AI Ethics",2024-01-23
+USR-0797,36,Male,Australia,Other,Nurse,14,Manufacturing,False,,5,3,0.7,Low,"Data Visualization, Python",2023-08-02
+USR-0798,39,Male,Australia,Bachelor's,Financial Advisor,15,Manufacturing,False,,3,2,0.7,Medium,"Data Visualization, Python",2024-01-17
+USR-0799,26,Male,Germany,Bachelor's,Marketing Coordinator,2,Healthcare,False,,4,0,0.7,Medium,"Python, Data Analysis, AI Ethics",2023-02-17
+USR-0800,50,Male,USA,Bachelor's,Content Creator,26,Finance,False,,2,1,0.7,Low,"Python, Data Analysis, AI Ethics",2023-10-13
+USR-0801,48,Male,France,Master's,Admin Assistant,25,Education,True,"Natural Language Processing, Prompt Engineering",4,5,0.43,High,,2023-01-23
+USR-0802,47,Male,Germany,Bachelor's,Operations Manager,27,Tech,False,,4,2,0.7,Medium,"Prompt Engineering, NLP",2024-06-18
+USR-0803,30,Male,USA,PhD,Teacher,11,Consulting,False,,4,1,0.7,Low,"Prompt Engineering, NLP",2023-11-06
+USR-0804,23,Male,USA,Bachelor's,Marketing Coordinator,0,Retail,False,,5,1,0.7,High,"Python, Data Analysis, AI Ethics",2024-06-18
+USR-0805,44,Male,Germany,Master's,AI Specialist,23,Tech,True,"Natural Language Processing, Computer Vision",3,0,0.19,Low,,2023-10-10
+USR-0806,28,Male,India,PhD,Data Analyst,5,Healthcare,False,,4,1,0.7,Medium,"Prompt Engineering, NLP",2023-04-15
+USR-0807,50,Male,Germany,Master's,Data Analyst,26,Media,True,Machine Learning,3,2,0.44,Low,,2023-02-18
+USR-0808,52,Male,India,Master's,Admin Assistant,33,Media,True,"Natural Language Processing, Data Science",4,4,0.39,High,,2024-05-07
+USR-0809,25,Male,Brazil,High School,Marketing Coordinator,2,Education,False,,5,4,0.7,High,"Machine Learning, Deep Learning",2024-06-11
+USR-0810,39,Male,Australia,Master's,Marketing Coordinator,19,Manufacturing,False,,5,3,0.7,Medium,AI for Business,2024-02-24
+USR-0811,44,Female,Australia,Master's,Admin Assistant,23,Manufacturing,False,,4,5,0.7,High,"Python, Data Analysis, AI Ethics",2023-01-28
+USR-0812,42,Male,Canada,Bachelor's,Admin Assistant,21,Tech,True,"Deep Learning, Computer Vision",4,3,0.16,High,,2024-06-22
+USR-0813,27,Male,France,Bachelor's,Retail Manager,5,Healthcare,False,,4,4,0.7,High,"Data Visualization, Python",2023-09-30
+USR-0814,57,Male,Brazil,Other,Financial Advisor,38,Media,False,,4,4,0.7,High,AI for Business,2023-03-12
+USR-0815,27,Female,UK,Bachelor's,Marketing Coordinator,3,Education,False,,5,1,0.7,Medium,AI for Business,2023-06-30
+USR-0816,50,Female,UK,Master's,Software Engineer,27,Retail,True,"Machine Learning, AI Ethics, Computer Vision",3,2,0.38,Low,,2023-03-19
+USR-0817,42,Male,Brazil,Master's,Marketing Coordinator,22,Finance,True,"Computer Vision, Prompt Engineering",3,2,0.2,Medium,,2023-09-24
+USR-0818,50,Male,USA,Bachelor's,AI Specialist,32,Consulting,False,,4,5,0.7,Low,"Prompt Engineering, NLP",2024-06-21
+USR-0819,43,Female,France,High School,AI Specialist,23,Media,False,,2,0,0.7,Low,"Python, Data Analysis, AI Ethics",2023-05-15
+USR-0820,54,Male,Brazil,PhD,Marketing Coordinator,35,Media,True,"Prompt Engineering, Deep Learning",2,2,0.43,High,,2023-11-20
+USR-0821,48,Female,UK,Master's,Content Creator,28,Consulting,False,,4,4,0.7,Low,"Machine Learning, Deep Learning",2023-05-26
+USR-0822,38,Female,USA,Bachelor's,AI Specialist,15,Media,True,"Machine Learning, Deep Learning, Computer Vision",5,0,0.3,Low,,2023-01-08
+USR-0823,35,Male,USA,Bachelor's,Retail Manager,11,Healthcare,False,,5,3,0.7,High,"Data Visualization, Python",2024-05-13
+USR-0824,38,Female,India,Master's,Nurse,15,Finance,True,"Computer Vision, Prompt Engineering",4,0,0.18,Medium,,2024-05-28
+USR-0825,51,Female,France,PhD,Teacher,29,Finance,False,,4,0,0.7,Medium,"Python, Data Analysis, AI Ethics",2023-07-15
+USR-0826,44,Female,India,Bachelor's,Teacher,26,Manufacturing,False,,2,2,0.7,High,"Prompt Engineering, NLP",2023-12-27
+USR-0827,39,Female,Canada,Bachelor's,Nurse,18,Manufacturing,False,,5,0,0.7,Medium,"Data Visualization, Python",2024-03-02
+USR-0828,24,Female,USA,Master's,Financial Advisor,5,Healthcare,False,,4,2,0.7,Low,"Data Visualization, Python",2023-03-03
+USR-0829,39,Male,Germany,Master's,Data Analyst,20,Media,False,,4,2,0.7,Low,"Machine Learning, Deep Learning",2024-01-22
+USR-0830,31,Female,USA,Master's,AI Specialist,13,Healthcare,False,,4,1,0.7,Low,"Prompt Engineering, NLP",2024-01-09
+USR-0831,29,Female,India,Bachelor's,Content Creator,10,Healthcare,False,,5,1,0.7,Low,"Python, Data Analysis, AI Ethics",2024-03-20
+USR-0832,26,Male,India,Master's,Financial Advisor,7,Education,False,,4,4,0.7,High,AI for Business,2024-05-31
+USR-0833,27,Male,Australia,Bachelor's,Software Engineer,5,Consulting,False,,5,2,0.7,Low,AI for Business,2023-07-14
+USR-0834,55,Female,France,PhD,Data Analyst,36,Education,False,,4,1,0.7,Low,"Python, Data Analysis, AI Ethics",2024-05-25
+USR-0835,46,Female,Canada,Bachelor's,Marketing Coordinator,24,Manufacturing,False,,2,0,0.7,High,"Python, Data Analysis, AI Ethics",2024-04-14
+USR-0836,26,Male,India,High School,Financial Advisor,7,Education,False,,4,1,0.7,Medium,AI for Business,2024-02-02
+USR-0837,26,Male,Australia,Bachelor's,Marketing Coordinator,7,Healthcare,False,,5,1,0.7,Medium,"Machine Learning, Deep Learning",2024-06-26
+USR-0838,60,Prefer Not to Say,USA,Bachelor's,Operations Manager,37,Healthcare,False,,4,3,0.7,Medium,AI for Business,2023-09-30
+USR-0839,52,Female,Australia,Bachelor's,Admin Assistant,30,Finance,False,,4,4,0.7,High,"Data Visualization, Python",2024-05-08
+USR-0840,49,Male,Canada,Bachelor's,Data Analyst,28,Tech,False,,4,0,0.7,Low,"Machine Learning, Deep Learning",2023-02-08
+USR-0841,32,Male,Australia,Bachelor's,Teacher,13,Tech,True,"Data Science, Prompt Engineering",5,4,0.16,Low,,2024-01-08
+USR-0842,60,Female,Australia,Bachelor's,Teacher,40,Consulting,False,,2,2,0.7,Medium,"Prompt Engineering, NLP",2023-03-03
+USR-0843,60,Female,Australia,Bachelor's,Teacher,39,Consulting,False,,4,0,0.7,Low,"Prompt Engineering, NLP",2023-08-30
+USR-0844,25,Male,France,Master's,Admin Assistant,5,Retail,False,,5,1,0.7,High,"Python, Data Analysis, AI Ethics",2023-06-18
+USR-0845,52,Female,Brazil,Bachelor's,Teacher,29,Media,False,,3,0,0.7,Low,"Prompt Engineering, NLP",2024-05-10
+USR-0846,22,Female,France,Bachelor's,Admin Assistant,1,Finance,False,,3,2,0.7,High,AI for Business,2024-06-12
+USR-0847,46,Male,UK,Bachelor's,Teacher,22,Finance,True,"AI Ethics, Computer Vision, Data Science",2,1,0.27,Medium,,2023-10-26
+USR-0848,40,Male,USA,Bachelor's,AI Specialist,16,Media,False,,3,1,0.7,Low,"Machine Learning, Deep Learning",2023-11-07
+USR-0849,32,Female,France,Bachelor's,Software Engineer,10,Retail,False,,3,1,0.7,Low,"Machine Learning, Deep Learning",2023-03-26
+USR-0850,23,Female,Australia,Bachelor's,Teacher,0,Healthcare,False,,4,0,0.7,Medium,"Python, Data Analysis, AI Ethics",2024-06-04
+USR-0851,31,Female,USA,Other,Software Engineer,7,Tech,False,,4,4,0.7,Low,AI for Business,2023-05-07
+USR-0852,54,Female,UK,Master's,Software Engineer,31,Tech,False,,3,2,0.7,Low,"Data Visualization, Python",2023-06-30
+USR-0853,48,Female,India,Bachelor's,Content Creator,25,Education,False,,3,1,0.7,Low,AI for Business,2023-10-26
+USR-0854,40,Male,India,Bachelor's,Software Engineer,19,Healthcare,False,,4,0,0.7,Low,"Machine Learning, Deep Learning",2024-01-30
+USR-0855,42,Male,UK,Master's,Data Analyst,21,Manufacturing,False,,4,3,0.7,Low,AI for Business,2024-07-06
+USR-0856,36,Female,India,Master's,Retail Manager,13,Healthcare,False,,4,1,0.7,High,AI for Business,2023-11-29
+USR-0857,24,Female,France,Bachelor's,Admin Assistant,5,Tech,True,"Deep Learning, Computer Vision",4,2,0.19,High,,2023-03-31
+USR-0858,52,Male,USA,Master's,Content Creator,33,Consulting,False,,4,0,0.7,Low,"Prompt Engineering, NLP",2023-04-06
+USR-0859,47,Male,Australia,Bachelor's,AI Specialist,26,Media,False,,3,2,0.7,Low,"Python, Data Analysis, AI Ethics",2023-11-24
+USR-0860,35,Male,UK,High School,Financial Advisor,11,Retail,False,,4,0,0.7,High,"Machine Learning, Deep Learning",2023-07-01
+USR-0861,60,Female,Canada,Master's,Financial Advisor,42,Finance,False,,4,1,0.7,High,"Machine Learning, Deep Learning",2024-03-15
+USR-0862,32,Prefer Not to Say,India,High School,Retail Manager,11,Consulting,False,,4,2,0.7,High,"Machine Learning, Deep Learning",2023-11-08
+USR-0863,34,Female,Australia,Bachelor's,Operations Manager,10,Media,False,,4,3,0.7,Low,AI for Business,2024-01-09
+USR-0864,23,Male,Australia,Master's,Retail Manager,4,Manufacturing,False,,5,4,0.7,High,AI for Business,2023-07-09
+USR-0865,60,Male,Germany,Bachelor's,Content Creator,36,Finance,False,,3,2,0.7,Low,"Machine Learning, Deep Learning",2024-02-03
+USR-0866,55,Male,Brazil,PhD,Content Creator,37,Education,False,,4,1,0.7,Low,"Python, Data Analysis, AI Ethics",2024-02-09
+USR-0867,54,Female,India,Master's,Teacher,31,Consulting,False,,4,5,0.7,High,"Data Visualization, Python",2024-01-10
+USR-0868,51,Male,India,Master's,Operations Manager,28,Finance,False,,2,0,0.7,Low,AI for Business,2024-03-13
+USR-0869,40,Female,France,Bachelor's,Operations Manager,21,Education,False,,4,4,0.7,Medium,"Machine Learning, Deep Learning",2023-07-18
+USR-0870,51,Female,France,Master's,Marketing Coordinator,28,Healthcare,True,"Machine Learning, Natural Language Processing",4,0,0.44,Low,,2023-09-19
+USR-0871,54,Female,Germany,Bachelor's,Data Analyst,35,Retail,False,,3,0,0.7,Medium,"Prompt Engineering, NLP",2023-04-23
+USR-0872,30,Female,UK,Master's,Nurse,6,Retail,True,Deep Learning,3,1,0.28,Low,,2023-10-31
+USR-0873,55,Female,USA,Bachelor's,Financial Advisor,32,Healthcare,False,,4,3,0.7,Medium,"Machine Learning, Deep Learning",2023-05-14
+USR-0874,25,Non-Binary,Brazil,PhD,AI Specialist,4,Tech,False,,4,5,0.7,Low,"Machine Learning, Deep Learning",2024-03-20
+USR-0875,51,Female,India,Master's,Retail Manager,32,Healthcare,False,,3,0,0.7,High,AI for Business,2024-02-05
+USR-0876,34,Male,Brazil,Bachelor's,Marketing Coordinator,10,Retail,False,,4,2,0.7,Low,"Machine Learning, Deep Learning",2023-07-01
+USR-0877,46,Male,India,Bachelor's,Marketing Coordinator,23,Tech,True,"Data Science, Machine Learning, AI Ethics",4,0,0.32,Low,,2023-10-14
+USR-0878,29,Male,France,PhD,Retail Manager,10,Tech,False,,5,4,0.7,High,"Python, Data Analysis, AI Ethics",2023-02-21
+USR-0879,32,Female,Germany,Bachelor's,Marketing Coordinator,14,Consulting,False,,5,1,0.7,Medium,"Machine Learning, Deep Learning",2024-02-10
+USR-0880,54,Female,USA,Bachelor's,Financial Advisor,30,Media,False,,4,4,0.7,Medium,"Machine Learning, Deep Learning",2024-07-19
+USR-0881,22,Male,Germany,Bachelor's,AI Specialist,3,Consulting,False,,5,3,0.7,Low,"Python, Data Analysis, AI Ethics",2024-02-01
+USR-0882,22,Non-Binary,India,Bachelor's,Retail Manager,2,Finance,True,"Computer Vision, Natural Language Processing",3,0,0.16,High,,2024-07-14
+USR-0883,55,Male,India,Master's,Nurse,36,Consulting,False,,2,1,0.7,Low,AI for Business,2024-02-07
+USR-0884,32,Male,UK,Bachelor's,Admin Assistant,13,Finance,False,,5,1,0.7,High,AI for Business,2023-02-06
+USR-0885,48,Female,Canada,High School,Software Engineer,28,Tech,True,"Data Science, Computer Vision",4,4,0.44,Low,,2023-06-04
+USR-0886,44,Male,UK,High School,Software Engineer,23,Manufacturing,False,,3,1,0.7,Low,"Machine Learning, Deep Learning",2024-02-16
+USR-0887,49,Female,USA,High School,Marketing Coordinator,25,Education,False,,4,3,0.7,Low,AI for Business,2024-06-14
+USR-0888,46,Female,India,Bachelor's,Software Engineer,25,Consulting,False,,4,1,0.7,Low,"Prompt Engineering, NLP",2023-08-26
+USR-0889,25,Female,Australia,Master's,Retail Manager,6,Education,False,,5,5,0.7,High,"Python, Data Analysis, AI Ethics",2023-05-21
+USR-0890,23,Male,India,Bachelor's,Nurse,2,Education,False,,5,5,0.7,Medium,"Machine Learning, Deep Learning",2023-06-04
+USR-0891,50,Male,Germany,Master's,Data Analyst,28,Manufacturing,True,AI Ethics,3,0,0.38,Medium,,2023-08-12
+USR-0892,30,Female,USA,Bachelor's,Admin Assistant,8,Retail,False,,4,3,0.7,High,"Prompt Engineering, NLP",2023-03-12
+USR-0893,59,Male,Canada,Bachelor's,Content Creator,41,Media,False,,3,2,0.7,Low,"Prompt Engineering, NLP",2023-06-24
+USR-0894,42,Male,Germany,High School,Teacher,23,Tech,False,,2,2,0.7,High,"Machine Learning, Deep Learning",2023-01-16
+USR-0895,53,Female,USA,High School,Financial Advisor,29,Finance,False,,2,0,0.7,Low,"Data Visualization, Python",2023-03-21
+USR-0896,49,Female,France,High School,Nurse,29,Media,False,,4,1,0.7,Medium,"Machine Learning, Deep Learning",2023-12-19
+USR-0897,33,Female,Brazil,Bachelor's,Teacher,14,Consulting,False,,5,5,0.7,Medium,AI for Business,2023-06-15
+USR-0898,51,Male,India,Bachelor's,Financial Advisor,33,Media,False,,4,4,0.7,Low,"Machine Learning, Deep Learning",2024-07-08
+USR-0899,50,Male,France,Bachelor's,Software Engineer,31,Manufacturing,False,,4,5,0.7,Low,"Data Visualization, Python",2023-03-31
+USR-0900,44,Female,USA,Master's,Software Engineer,21,Retail,False,,4,1,0.7,Low,"Data Visualization, Python",2023-01-21
+USR-0901,41,Female,France,Bachelor's,Retail Manager,19,Education,False,,2,1,0.7,High,"Data Visualization, Python",2023-03-06
+USR-0902,46,Male,Germany,Master's,Retail Manager,23,Finance,True,"Natural Language Processing, Machine Learning, Computer Vision",4,4,0.27,High,,2024-04-13
+USR-0903,46,Male,Brazil,Bachelor's,AI Specialist,23,Retail,False,,3,1,0.7,Low,AI for Business,2024-07-24
+USR-0904,44,Non-Binary,Brazil,PhD,Data Analyst,20,Media,True,"Deep Learning, Prompt Engineering, Machine Learning",3,1,0.35,Medium,,2024-06-06
+USR-0905,47,Male,USA,Bachelor's,Operations Manager,24,Finance,False,,3,2,0.7,Low,"Data Visualization, Python",2024-03-04
+USR-0906,36,Female,France,PhD,Nurse,13,Retail,False,,3,0,0.7,Medium,"Prompt Engineering, NLP",2023-12-13
+USR-0907,27,Male,Australia,Bachelor's,Content Creator,7,Retail,False,,4,2,0.7,Low,"Python, Data Analysis, AI Ethics",2024-05-22
+USR-0908,45,Male,Canada,High School,Admin Assistant,22,Consulting,False,,3,1,0.7,High,"Machine Learning, Deep Learning",2023-09-10
+USR-0909,26,Female,USA,High School,Marketing Coordinator,7,Tech,False,,5,4,0.7,Low,"Machine Learning, Deep Learning",2024-02-15
+USR-0910,30,Male,USA,Bachelor's,Nurse,11,Education,False,,5,4,0.7,Low,"Python, Data Analysis, AI Ethics",2023-02-01
+USR-0911,30,Male,India,Master's,Financial Advisor,11,Education,True,"Prompt Engineering, Natural Language Processing, Data Science",3,0,0.34,Low,,2023-03-01
+USR-0912,47,Male,USA,Bachelor's,Data Analyst,24,Healthcare,False,,4,0,0.7,Low,"Machine Learning, Deep Learning",2024-01-03
+USR-0913,57,Female,USA,Bachelor's,AI Specialist,38,Healthcare,False,,3,1,0.7,Low,"Data Visualization, Python",2023-05-28
+USR-0914,57,Male,USA,Master's,Admin Assistant,37,Finance,False,,3,2,0.7,High,"Python, Data Analysis, AI Ethics",2023-09-10
+USR-0915,33,Male,UK,Bachelor's,Teacher,9,Tech,True,"Natural Language Processing, Computer Vision, Prompt Engineering",5,3,0.16,Medium,,2023-02-14
+USR-0916,41,Female,Canada,Bachelor's,Operations Manager,23,Healthcare,False,,3,0,0.7,Medium,"Data Visualization, Python",2024-04-28
+USR-0917,46,Male,UK,Master's,Nurse,24,Tech,True,Computer Vision,2,0,0.29,Medium,,2023-07-26
+USR-0918,36,Female,Canada,Master's,Software Engineer,13,Manufacturing,True,Deep Learning,5,1,0.33,Low,,2023-04-11
+USR-0919,54,Male,UK,Master's,Financial Advisor,30,Healthcare,False,,4,0,0.7,Low,"Python, Data Analysis, AI Ethics",2024-06-30
+USR-0920,40,Male,UK,Master's,Content Creator,17,Finance,True,"AI Ethics, Computer Vision",2,1,0.23,Low,,2023-12-19
+USR-0921,25,Male,UK,Master's,Content Creator,6,Manufacturing,True,"Data Science, Machine Learning",4,1,0.33,Low,,2023-02-07
+USR-0922,57,Male,Germany,Bachelor's,Financial Advisor,34,Manufacturing,False,,3,0,0.7,Medium,"Data Visualization, Python",2023-01-19
+USR-0923,50,Female,UK,High School,Retail Manager,27,Retail,False,,2,1,0.7,High,"Python, Data Analysis, AI Ethics",2024-05-21
+USR-0924,33,Non-Binary,Canada,High School,Teacher,15,Retail,False,,3,1,0.7,Low,"Machine Learning, Deep Learning",2023-06-27
+USR-0925,49,Male,Germany,Bachelor's,Retail Manager,27,Healthcare,False,,3,1,0.7,High,"Prompt Engineering, NLP",2023-10-15
+USR-0926,57,Male,India,Bachelor's,Nurse,36,Finance,False,,3,1,0.7,Medium,"Prompt Engineering, NLP",2024-01-06
+USR-0927,26,Female,Germany,Bachelor's,Operations Manager,7,Finance,False,,3,0,0.7,Medium,"Machine Learning, Deep Learning",2023-08-21
+USR-0928,46,Female,USA,Bachelor's,Data Analyst,28,Finance,False,,3,1,0.7,Low,"Prompt Engineering, NLP",2023-04-26
+USR-0929,56,Female,India,Bachelor's,Marketing Coordinator,33,Manufacturing,False,,3,1,0.7,Low,"Python, Data Analysis, AI Ethics",2024-02-05
+USR-0930,46,Male,USA,Bachelor's,Admin Assistant,22,Consulting,False,,4,4,0.7,High,AI for Business,2024-02-02
+USR-0931,54,Male,India,Other,Data Analyst,33,Healthcare,False,,2,2,0.7,Medium,"Data Visualization, Python",2023-02-12
+USR-0932,29,Female,France,Bachelor's,Marketing Coordinator,9,Manufacturing,False,,4,4,0.7,Medium,"Data Visualization, Python",2023-08-14
+USR-0933,40,Male,France,Master's,Software Engineer,21,Consulting,False,,4,3,0.7,Low,"Python, Data Analysis, AI Ethics",2024-03-28
+USR-0934,49,Male,France,Bachelor's,Nurse,26,Media,False,,2,2,0.7,Medium,"Machine Learning, Deep Learning",2023-12-12
+USR-0935,48,Female,USA,Bachelor's,Teacher,28,Media,False,,2,2,0.7,Medium,"Python, Data Analysis, AI Ethics",2023-10-23
+USR-0936,28,Female,USA,Master's,Nurse,8,Education,False,,4,4,0.7,High,"Data Visualization, Python",2023-04-01
+USR-0937,40,Male,France,Other,Teacher,20,Education,False,,2,2,0.7,High,AI for Business,2024-06-13
+USR-0938,60,Non-Binary,Canada,Master's,Marketing Coordinator,41,Manufacturing,True,"Machine Learning, Natural Language Processing",3,2,0.42,Medium,,2024-02-27
+USR-0939,43,Female,USA,Bachelor's,Marketing Coordinator,24,Healthcare,False,,3,2,0.7,Medium,"Prompt Engineering, NLP",2024-01-13
+USR-0940,31,Female,Brazil,Bachelor's,Teacher,13,Tech,True,Computer Vision,4,1,0.16,Medium,,2023-06-15
+USR-0941,52,Female,France,Bachelor's,AI Specialist,30,Healthcare,False,,2,0,0.7,Low,"Machine Learning, Deep Learning",2024-05-04
+USR-0942,30,Male,India,Bachelor's,Operations Manager,10,Education,False,,4,3,0.7,Low,"Python, Data Analysis, AI Ethics",2023-05-30
+USR-0943,50,Male,UK,Bachelor's,AI Specialist,30,Manufacturing,False,,4,1,0.7,Low,"Machine Learning, Deep Learning",2023-10-08
+USR-0944,39,Male,USA,Master's,Admin Assistant,15,Consulting,True,Computer Vision,4,1,0.34,High,,2023-01-14
+USR-0945,30,Female,UK,PhD,Retail Manager,7,Retail,False,,3,1,0.7,High,"Prompt Engineering, NLP",2023-07-26
+USR-0946,40,Male,Canada,Bachelor's,Content Creator,18,Tech,False,,3,2,0.7,Low,"Machine Learning, Deep Learning",2023-07-16
+USR-0947,42,Male,Australia,Bachelor's,Content Creator,20,Tech,True,"AI Ethics, Machine Learning, Natural Language Processing",4,5,0.16,Low,,2024-06-28
+USR-0948,23,Male,Brazil,High School,Software Engineer,3,Healthcare,False,,4,4,0.7,Low,"Data Visualization, Python",2024-03-27
+USR-0949,47,Female,USA,High School,Marketing Coordinator,25,Education,False,,2,1,0.7,Medium,"Prompt Engineering, NLP",2024-04-07
+USR-0950,22,Female,India,Bachelor's,Data Analyst,3,Manufacturing,False,,4,4,0.7,Medium,AI for Business,2023-07-25
+USR-0951,40,Female,UK,Bachelor's,Financial Advisor,18,Finance,False,,3,0,0.7,Low,"Machine Learning, Deep Learning",2023-06-14
+USR-0952,59,Male,UK,PhD,Retail Manager,38,Manufacturing,False,,4,2,0.7,High,"Python, Data Analysis, AI Ethics",2024-02-25
+USR-0953,53,Male,Brazil,PhD,Financial Advisor,31,Consulting,True,AI Ethics,4,2,0.39,Medium,,2024-02-12
+USR-0954,55,Female,India,Bachelor's,Content Creator,36,Education,True,Data Science,4,5,0.4,Low,,2023-12-14
+USR-0955,24,Male,USA,Bachelor's,AI Specialist,4,Education,True,Deep Learning,4,5,0.27,Low,,2023-02-13
+USR-0956,42,Male,USA,PhD,Retail Manager,18,Tech,True,Data Science,3,1,0.23,High,,2023-05-04
+USR-0957,44,Female,USA,Other,Software Engineer,21,Finance,False,,4,2,0.7,Low,"Prompt Engineering, NLP",2024-04-06
+USR-0958,53,Female,Australia,Bachelor's,AI Specialist,34,Finance,False,,4,3,0.7,Low,"Machine Learning, Deep Learning",2023-04-27
+USR-0959,57,Female,Brazil,High School,Financial Advisor,36,Manufacturing,False,,4,0,0.7,Medium,"Data Visualization, Python",2023-09-09
+USR-0960,24,Female,UK,Master's,Marketing Coordinator,3,Retail,False,,3,2,0.7,High,"Data Visualization, Python",2023-08-18
+USR-0961,29,Female,India,Bachelor's,Retail Manager,11,Finance,False,,4,3,0.7,High,AI for Business,2024-03-25
+USR-0962,25,Female,Germany,Bachelor's,Data Analyst,4,Healthcare,False,,5,0,0.7,Medium,"Prompt Engineering, NLP",2023-03-11
+USR-0963,24,Male,USA,Master's,Retail Manager,5,Consulting,False,,4,1,0.7,High,"Python, Data Analysis, AI Ethics",2023-10-02
+USR-0964,59,Female,Canada,High School,Data Analyst,39,Consulting,True,"AI Ethics, Prompt Engineering",3,0,0.45,High,,2023-01-20
+USR-0965,24,Male,India,Bachelor's,Retail Manager,4,Healthcare,False,,3,1,0.7,High,"Machine Learning, Deep Learning",2023-05-05
+USR-0966,38,Male,India,Bachelor's,Financial Advisor,17,Consulting,False,,5,2,0.7,Medium,"Prompt Engineering, NLP",2023-08-16
+USR-0967,37,Female,France,Bachelor's,Financial Advisor,13,Tech,True,AI Ethics,3,1,0.15,Low,,2024-06-21
+USR-0968,36,Male,Canada,High School,Nurse,13,Tech,False,,4,1,0.7,Medium,"Data Visualization, Python",2024-03-31
+USR-0969,44,Male,India,High School,Teacher,21,Education,False,,4,2,0.7,High,"Prompt Engineering, NLP",2024-03-03
+USR-0970,35,Male,Australia,Master's,Marketing Coordinator,11,Retail,False,,4,0,0.7,High,"Machine Learning, Deep Learning",2023-04-15
+USR-0971,47,Male,Australia,Bachelor's,Marketing Coordinator,25,Tech,False,,4,3,0.7,High,"Data Visualization, Python",2023-05-24
+USR-0972,42,Male,France,Bachelor's,Teacher,24,Media,False,,3,1,0.7,High,"Machine Learning, Deep Learning",2024-07-10
+USR-0973,30,Female,India,Bachelor's,Data Analyst,12,Retail,False,,5,3,0.7,Medium,"Machine Learning, Deep Learning",2024-07-31
+USR-0974,26,Female,USA,Master's,Content Creator,7,Healthcare,True,"AI Ethics, Prompt Engineering, Machine Learning",4,5,0.35,Low,,2023-12-14
+USR-0975,26,Female,Brazil,Bachelor's,Admin Assistant,7,Media,False,,5,5,0.7,High,AI for Business,2023-10-18
+USR-0976,57,Female,Canada,PhD,Teacher,34,Manufacturing,False,,4,2,0.7,Medium,"Python, Data Analysis, AI Ethics",2024-01-02
+USR-0977,32,Male,Canada,High School,Software Engineer,13,Manufacturing,False,,5,5,0.7,Low,AI for Business,2023-03-03
+USR-0978,30,Female,USA,Bachelor's,Data Analyst,11,Tech,False,,4,5,0.7,High,"Python, Data Analysis, AI Ethics",2023-07-20
+USR-0979,24,Male,USA,Master's,Admin Assistant,1,Consulting,False,,5,0,0.7,High,"Prompt Engineering, NLP",2024-02-28
+USR-0980,31,Female,Brazil,High School,Nurse,7,Consulting,False,,5,0,0.7,Medium,"Python, Data Analysis, AI Ethics",2024-05-14
+USR-0981,59,Male,Australia,PhD,Marketing Coordinator,35,Finance,False,,4,5,0.7,High,"Machine Learning, Deep Learning",2024-06-16
+USR-0982,57,Female,USA,Master's,Data Analyst,34,Media,True,"Natural Language Processing, Prompt Engineering",3,0,0.35,Medium,,2023-01-03
+USR-0983,48,Female,Australia,High School,Nurse,27,Healthcare,False,,4,0,0.7,Medium,AI for Business,2023-04-19
+USR-0984,38,Female,USA,Bachelor's,Admin Assistant,14,Education,False,,3,0,0.7,High,"Data Visualization, Python",2024-01-25
+USR-0985,49,Male,Canada,Bachelor's,Retail Manager,27,Healthcare,False,,2,1,0.7,High,AI for Business,2024-01-25
+USR-0986,22,Male,Brazil,Bachelor's,Software Engineer,0,Consulting,False,,5,4,0.7,Low,"Data Visualization, Python",2023-01-22
+USR-0987,51,Male,USA,Bachelor's,Teacher,33,Retail,False,,3,2,0.7,Low,"Data Visualization, Python",2023-08-17
+USR-0988,55,Male,India,Bachelor's,AI Specialist,32,Media,False,,3,2,0.7,Low,"Python, Data Analysis, AI Ethics",2023-03-10
+USR-0989,24,Female,India,Master's,Teacher,2,Healthcare,True,AI Ethics,5,5,0.32,Medium,,2023-06-30
+USR-0990,32,Female,India,Master's,Content Creator,10,Healthcare,False,,4,2,0.7,Low,"Prompt Engineering, NLP",2023-12-19
+USR-0991,38,Male,India,Master's,Admin Assistant,19,Tech,True,"Deep Learning, Prompt Engineering, Data Science",4,3,0.25,High,,2023-12-28
+USR-0992,25,Non-Binary,France,Bachelor's,Financial Advisor,2,Tech,False,,4,3,0.7,Medium,"Data Visualization, Python",2023-09-19
+USR-0993,42,Female,Germany,Other,AI Specialist,19,Healthcare,False,,3,1,0.7,Low,"Prompt Engineering, NLP",2023-03-19
+USR-0994,37,Male,Australia,Master's,AI Specialist,15,Healthcare,False,,5,5,0.7,Low,AI for Business,2024-03-09
+USR-0995,39,Female,USA,Bachelor's,Teacher,16,Tech,False,,4,3,0.7,Low,AI for Business,2024-03-11
+USR-0996,50,Female,France,Bachelor's,Operations Manager,32,Media,False,,3,2,0.7,High,"Machine Learning, Deep Learning",2023-08-21
+USR-0997,47,Female,Australia,Bachelor's,Software Engineer,27,Consulting,False,,3,0,0.7,Low,"Prompt Engineering, NLP",2023-07-12
+USR-0998,26,Female,Germany,PhD,Marketing Coordinator,2,Healthcare,True,"Deep Learning, Data Science, AI Ethics",5,0,0.26,Low,,2023-10-06
+USR-0999,31,Female,USA,Bachelor's,AI Specialist,12,Finance,False,,5,1,0.7,Low,"Data Visualization, Python",2023-12-11
+USR-1000,39,Female,Canada,Bachelor's,Data Analyst,19,Consulting,False,,4,2,0.7,Medium,"Machine Learning, Deep Learning",2023-03-03
